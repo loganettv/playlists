@@ -143,6 +143,8 @@ http://77.235.1.19:8000/play/a07e/index.m3u8
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
 #EXTINF:-1 group-title="Кино", .Sci-Fi HD
 http://45.159.74.22/Kinoseriya/mono.m3u8
+#EXTINF:-1 group-title="Кино", Блокбастер HD
+http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
@@ -165,6 +167,8 @@ http://89.221.57.5:8000/play/a00p/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="Кино", Камеди HD
+http://178.217.72.66:8080/kamedyhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко
 http://178.217.72.66:8080/kineko/index.m3u8
 #EXTINF:-1 tvg-id="kineko" group-title="Кино", Кинеко HD
@@ -293,6 +297,8 @@ http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
 #EXTINF:-1 group-title="Кино", Хит HD
 http://178.217.72.66:8080/hithd/index.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее HD
+http://178.217.72.66:8080/shokiruushee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино", Amedia 1 HD
