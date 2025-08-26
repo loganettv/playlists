@@ -1383,6 +1383,8 @@ https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Музыка", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", MCM Top
+http://178.217.72.66:8080/MCM_Top/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo
 http://77.235.1.19:8000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Музыка", Mezzo Live
@@ -1397,7 +1399,7 @@ http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
 http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Hits
 http://213.169.39.30:5257
-#EXTINF:-1 group-title="Музыка", MTV Livep
+#EXTINF:-1 group-title="Музыка", MTV Live
 http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 http://103.49.40.100:27014/POLSATMUSICHD
@@ -1409,6 +1411,8 @@ http://78.130.250.2:8023/play/a02r/index.m3u8
 http://213.230.65.254:8000/play/a01g
 #EXTINF:-1 group-title="Музыка", RU.TV HD
 http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыка", Russian MusicBox HD
+http://178.217.72.66:8080/Russian_Musicbox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", SongTV Россия
 http://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 group-title="Музыка", VIVA HD
