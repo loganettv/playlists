@@ -472,6 +472,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детям", Карусель
 https://streaming.goodstream.cyou/live/232.m3u8
+#EXTINF:-1 group-title="Детям", Лева HD
+http://31.133.36.244:8000/125
 #EXTINF:-1 group-title="Детям", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Мамонтенок
