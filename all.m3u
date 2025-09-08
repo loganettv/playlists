@@ -29,6 +29,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие", Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 group-title="Общие", Planeta RTR
 https://streaming.goodstream.cyou/live/211.m3u8
 #EXTINF:-1 group-title="Общие", НТВ
@@ -143,6 +145,8 @@ http://178.124.179.122:8088/Sci-Fi/index.m3u8
 http://45.159.74.22/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер HD
 http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Видеокассета
+http://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино
 https://streaming101.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум
@@ -720,6 +724,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="yu-pl7", Ю ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Box Memory HD
+http://178.217.72.66:8080/BOX_MEMORY_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Box Travel HD
+http://178.217.72.66:8080/BOX_travel_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Discovery
 http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Discovery HD
@@ -763,6 +771,8 @@ http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/track
 http://77.235.1.19:8000/play/a055/index.m3u8
 #EXTINF:-1 group-title="Знания", Арсенал HD
 http://178.217.72.66:8080/arsenalhd/index.m3u8
+#EXTINF:-1 group-title="Знания", Арт
+http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Знания", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", В мире животных HD
@@ -825,16 +835,18 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Знания", Океан
 http://45.11.139.43:8555/ocean/index.m3u8
+#EXTINF:-1 group-title="Знания", Первый вегетарианский
+http://178.217.72.66:8080/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Первый космический HD
 http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Знания", Про бизнес
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Победа
 https://streaming101.goodstream.cyou/live/43-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Знания", ПРНК
 https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 group-title="Знания", Про бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Знания", Психология
@@ -955,7 +967,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-id="rossia-24-pl7" group-title="Новости", Россия 24 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
-#EXTINF:-1 group-title="Новости", Соловьев.Live HD
+#EXTINF:-1 group-title="Новости", Соловьев Live HD
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="Новости", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
@@ -1022,6 +1034,8 @@ http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
 http://178.217.72.66:8080/Usadba/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба HD
 http://89.221.57.5:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Хобби", Box Game HD
+http://178.217.72.66:8080/BOX_GAME_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
 http://178.217.72.66:8080/e_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV HD
