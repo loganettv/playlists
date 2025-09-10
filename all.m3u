@@ -417,6 +417,8 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 http://77.235.1.19:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi
 http://77.235.1.19:8000/play/a083/index.m3u8
+#EXTINF:-1 group-title="Кино", Trash HD
+http://146.120.212.5:8004/play/a055/index.m3u8
 #EXTINF:-1 group-title="Кино", TV1000 Русское кино
 http://213.169.39.30:5006
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD 🛡
