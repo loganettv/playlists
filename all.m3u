@@ -141,8 +141,6 @@ http://178.124.152.238:8088/sony
 http://77.235.1.19:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="Кино", .Sci-Fi
 http://178.124.179.122:8088/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Кино", .Sci-Fi HD
-http://45.159.74.22/Kinoseriya/mono.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер HD
 http://178.217.72.66:8080/blockbasterhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Видеокассета
@@ -161,8 +159,6 @@ http://95.85.109.219:7000/play/a05v
 http://217.21.34.160:38003/evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+
 http://158.101.222.193:88/georgia_play.php?id=illuzionplus
-#EXTINF:-1 group-title="Кино", Иллюзион+ HD
-http://89.221.57.5:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Кино", Индийское кино
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1 group-title="Кино", Индия
@@ -184,7 +180,7 @@ http://77.235.1.19:8000/play/a05l/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия
 http://178.217.72.66:8080/Kinokomediya/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинокомедия HD
-http://45.159.74.22/Kinokomedia/tracks-v1a1/mono.m3u8
+http://95.85.109.219:7000/play/a086
 #EXTINF:-1 group-title="Кино", Киноман
 http://77.235.1.19:8000/play/a06r/index.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс
@@ -196,7 +192,7 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопоказ HD
 http://178.217.72.66:8080/kinopokazhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера
-http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
+http://radio.tvs.by:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Кинопремьера HD
 http://178.124.179.122:8088/Kinopremiera/index.m3u8
 #EXTINF:-1 group-title="Кино", Киносвидание
@@ -374,7 +370,7 @@ http://77.235.1.19:8000/play/a082/index.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip HD
 http://178.217.72.66:8080/flixsnip/video.m3u8
 #EXTINF:-1 group-title="Кино", FX
-http://45.159.74.22/Fox/mono.m3u8
+http://46.8.46.14/FOX/index.m3u8
 #EXTINF:-1 group-title="Кино", FX HD
 http://95.85.109.219:7000/play/a062
 #EXTINF:-1 group-title="Кино", FX Life HD
@@ -391,8 +387,6 @@ http://178.217.72.66:8080/kinoliving/tracks-v1a1/mono.m3u8
 http://95.85.109.219:7000/play/a05x
 #EXTINF:-1 group-title="Кино", Plan_B
 http://77.235.1.19:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Кино", Plan_B HD
-http://85.117.61.97:8000/play/a016/index.m3u8
 #EXTINF:-1 group-title="Кино", Red Premium HD
 http://95.85.109.219:7000/play/a06e
 #EXTINF:-1 group-title="Кино", Red Thriller HD
@@ -423,7 +417,7 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 http://77.235.1.19:8000/play/a051/index.m3u8
 #EXTINF:-1 group-title="Кино", Timeless Dizi
 http://77.235.1.19:8000/play/a083/index.m3u8
-#EXTINF:-1 group-title="Кино", TV1000 Русское
+#EXTINF:-1 group-title="Кино", TV1000 Русское кино
 http://213.169.39.30:5006
 #EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD 🛡
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
@@ -438,7 +432,7 @@ http://95.85.109.219:7000/play/a013
 #EXTINF:-1 group-title="Кино", viju TV1000 romantica
 http://77.235.1.19:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Кино", viju TV1000 русское
-http://85.117.61.97:8000/play/a00x/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино", viju TV1000 русское HD
 http://95.85.109.219:7000/play/a08x
 #EXTINF:-1 group-title="Кино", viju+ Comedy
