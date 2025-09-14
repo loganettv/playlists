@@ -269,14 +269,20 @@ http://77.235.1.19:8000/play/a070/index.m3u8
 http://178.124.152.238:8088/cinema
 #EXTINF:-1 group-title="Кино", Сити Эдем — Киноазия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАрт
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — Кинодок
 https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киноклассика
-https://autopilot.catcast.tv/content/34185/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДрама
+https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноКлассика
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино" tvg-id="40783", Сити Эдем — Киномистика
 https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киносемья
-https://autopilot.catcast.tv/content/38128/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино" tvg-id="41333", Сити Эдем — Киноэкшен
 https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" tvg-id="46209", Сити Эдем — Теленовелла
@@ -1053,6 +1059,10 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби", World Fashion Channel HD
 http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
 
+#EXTINF:-1 group-title="Религия", Сити Эдем ТВ
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Религия", Сити Эдем Плей
+https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Религия", Союз
 http://31.148.48.15/Soyuz/index.m3u8
 #EXTINF:-1 group-title="Религия", Союз HD
