@@ -1085,7 +1085,9 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет HD
 http://138.201.250.184/B5/index.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
-http://45.159.74.22/BoksTv/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
+http://195.42.154.178/test1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
@@ -1138,12 +1140,16 @@ http://178.217.72.66:8080/telefootbol/tracks-v1a1/mono.m3u8
 http://78.130.250.2:8023/play/a02o/index.m3u8
 #EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Bein Sports HD
-http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Спорт", Bein Sports Xtra 🛡️
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 1
+http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Спорт", Canal+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 3
+http://185.236.229.62:9981/play/a05n
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 4
+http://185.236.229.62:9981/play/a05f
 #EXTINF:-1 group-title="Спорт", Diema Sport
 http://213.169.39.30:5134
 #EXTINF:-1 group-title="Спорт", Diema Sport 2
@@ -1172,12 +1178,8 @@ https://7pal.short.gy/eusport4k
 http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Спорт", Fast&FunBox HD
-http://85.117.61.97:8000/play/a024/index.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
 http://77.235.1.19:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="Спорт", FightBox HD
-http://85.117.61.97:8000/play/a023/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Спорт", Fox Sports 502 🛡️
@@ -1300,7 +1302,7 @@ https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Музыка", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music
-http://85.117.61.97:8000/play/a021/index.m3u8
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music HD
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" group-title="Музыка", Шансон-ТВ
@@ -1324,7 +1326,7 @@ http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно
 http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно HD
-http://217.114.185.58:8000/play/a018/index.m3u8
+http://192.141.167.40/BRIDGE_ETHNO/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD RU Rock HD
@@ -1361,12 +1363,10 @@ http://77.235.1.19:8000/play/a02y/index.m3u8
 http://213.169.39.30:5137
 #EXTINF:-1 group-title="Музыка", MTV 90s
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка", MTV Classic
-http://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 group-title="Музыка", MTV Hits
 http://213.169.39.30:5257
 #EXTINF:-1 group-title="Музыка", MTV Live
-http://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
+http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 group-title="Музыка", Polsat Music HD
 http://103.49.40.100:27014/POLSATMUSICHD
 #EXTINF:-1 group-title="Музыка", Radio M2O
