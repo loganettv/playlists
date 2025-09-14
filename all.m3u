@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG,https://api.catcast.tv/api/timetable/epg.xml?channel_ids=40783"
+#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Общие", loganettv all
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
@@ -29,8 +29,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="Общие", Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
-#EXTINF:-1 group-title="Общие", Россия РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 group-title="Общие", Planeta RTR
 https://streaming.goodstream.cyou/live/211.m3u8
 #EXTINF:-1 group-title="Общие", НТВ
@@ -82,8 +80,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Общие", Рен ТВ HD
 http://178.217.72.66:8080/REN_TV/index.m3u8
-#EXTINF:-1 group-title="Общие", Рен ТВ Int.
-http://85.117.61.97:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="Общие", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Общие" tvg-id="zvezda", Звезда (Архив)
@@ -267,26 +263,30 @@ http://93.125.121.61:8383/play/a02z
 http://77.235.1.19:8000/play/a070/index.m3u8
 #EXTINF:-1 group-title="Кино", Синема HD
 http://178.124.152.238:8088/cinema
-#EXTINF:-1 group-title="Кино", Сити Эдем — Киноазия
-https://autopilot.catcast.tv/content/34393/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАрт
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАзия
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
 https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино", Сити Эдем — Кинодок
-https://autopilot.catcast.tv/content/38354/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДетектив
+https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноДрама
 https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноКлассика
 https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="40783", Сити Эдем — Киномистика
-https://autopilot.catcast.tv/content/40783/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноКомедия
+https://autopilot.catcast.tv/content/41331/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноСемья
 https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноФантастика
 https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
-#EXTINF:-1 group-title="Кино" tvg-id="41333", Сити Эдем — Киноэкшен
-https://autopilot.catcast.tv/content/41333/index.m3u8?password=promolive
-#EXTINF:-1 group-title="Кино" tvg-id="46209", Сити Эдем — Теленовелла
-https://autopilot.catcast.tv/content/46209/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино" tvg-id="41333", Сити Эдем — КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино" tvg-id="46209", Сити Эдем — ТелеНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино" tvg-id="34246", Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино", ТВ21
@@ -524,10 +524,8 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Classics
 http://77.235.1.19:8000/play/a052/index.m3u8
-#EXTINF:-1 group-title="Детям", Cartoonito HD
-http://45.159.74.22/Channel_120/index.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Network
-http://45.159.74.22/Kinosemya/mono.m3u8
+http://46.8.46.14/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детям", Da Vinci
 http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 #EXTINF:-1 group-title="Детям", Fox Kids
@@ -539,11 +537,9 @@ http://178.217.72.66:8080/JimJam/index.m3u8
 #EXTINF:-1 group-title="Детям", Kids TV
 http://77.235.1.19:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon
-http://45.159.74.22/Channel_114/index.m3u8
+http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon HD
 http://178.134.1.158:8081/nickelodeon/index.m3u8
-#EXTINF:-1 group-title="Детям", NickToons HD
-http://45.159.74.22/Boomerang/mono.m3u8
 #EXTINF:-1 group-title="Детям", TiJi
 http://178.217.72.66:8080/TiJi/index.m3u8
 
@@ -571,13 +567,13 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", Домашний HD
 http://178.217.72.66:8080/Domashniy/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Домашний Int.
-http://85.117.61.97:8000/play/a01i/index.m3u8
+http://93.125.121.61:8383/play/a009
 #EXTINF:-1 group-title="Развлечение", Зал суда
 http://77.235.1.19:8000/play/a07m/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Калейдоскоп ТВ
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 group-title="Развлечение", КВН ТВ
-http://45.159.74.22/Bober/mono.m3u8
+http://158.101.222.193:88/georgia_play.php?id=kvntv
 #EXTINF:-1 group-title="Развлечение", Китай ТВ HD
 http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Красная линия
@@ -643,7 +639,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение", СТС HD
-https://45.159.74.22/CTC/mono.m3u8
+http://178.217.72.66:8080/STS/index.m3u8
 #EXTINF:-1 group-title="Развлечение", СТС Int.
 http://178.134.1.158:8081/CTC/index.m3u8
 #EXTINF:-1 group-title="Развлечение", СТС Love
@@ -730,20 +726,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://178.217.72.66:8080/BOX_MEMORY_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Box Travel HD
 http://178.217.72.66:8080/BOX_travel_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлечение", Discovery
-http://45.159.74.22/DiscoveryChannel/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Discovery HD
 http://178.217.72.66:8080/Discovery_HD/video.m3u8
 #EXTINF:-1 group-title="Развлечение", Gagsnetwork
 http://77.235.1.19:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Развлечение", History
-http://95.85.109.219:7000/play/a069
 #EXTINF:-1 group-title="Развлечение", History HD
-http://45.159.74.22/Channel_123/mono.m3u8
+http://95.85.109.219:7000/play/a069
 #EXTINF:-1 group-title="Развлечение", Investigation Discovery
-http://178.217.72.66:8080/ID_Xtra/index.m3u8
-#EXTINF:-1 group-title="Развлечение", Investigation Discovery HD
-http://45.159.74.22/InvestigationDiscovery/mono.m3u8
+http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Nano
 http://s1.tv-nano.com/Nano_rec/video.m3u8
 #EXTINF:-1 group-title="Развлечение", Nano HD
@@ -756,8 +746,6 @@ http://195.26.83.96:7007/play/a00n/index.m3u8
 http://77.235.1.19:8000/play/a05j/index.m3u8
 #EXTINF:-1 group-title="Развлечение", TLC
 http://178.217.72.66:8080/TLC_Russia_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Развлечение", TLC HD
-http://45.159.74.22/TLC/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Travel+Adventure
 http://178.217.72.66:8080/Travel_And_Adventure/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Travel Channel
@@ -810,7 +798,7 @@ http://77.235.1.19:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="Знания", Конгресс ТВ
 http://77.235.1.19:8000/play/a036/index.m3u8
 #EXTINF:-1 group-title="Знания", Конгресс ТВ HD
-http://live-3.otcnet.ru/congresstv/index.m3u8
+https://live-4.otcnet.ru/504/135/1080p/index.m3u8
 #EXTINF:-1 group-title="Знания", Кто есть кто
 http://158.101.222.193:88/georgia_play.php?id=ktoestkto
 #EXTINF:-1 group-title="Знания", ЛДПР ТВ
@@ -839,8 +827,6 @@ http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 http://45.11.139.43:8555/ocean/index.m3u8
 #EXTINF:-1 group-title="Знания", Первый вегетарианский
 http://178.217.72.66:8080/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Знания", Первый космический HD
-http://45.159.74.22/Evrika/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Победа
@@ -868,15 +854,13 @@ http://178.217.72.66:8080/HDL/index.m3u8
 #EXTINF:-1 group-title="Знания", Animal Planet
 http://178.217.72.66:8080/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Знания", Animal Planet HD
-http://45.159.74.22/AnimalPlanet/mono.m3u8
+http://95.85.109.219:7000/play/a088
 #EXTINF:-1 group-title="Знания", Big Planet
 http://178.217.72.66:8080/big_planet/index.m3u8
 #EXTINF:-1 group-title="Знания", Curiosity Stream HD
 http://178.217.72.66:8080/curiositystream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", DocuBox
 http://77.235.1.19:8000/play/a07w/index.m3u8
-#EXTINF:-1 group-title="Знания", DocuBox HD
-http://85.117.61.97:8000/play/a01h/index.m3u8
 #EXTINF:-1 group-title="Знания", History 2 HD 🛡️
 http://95.67.12.81:10620
 #EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
@@ -890,7 +874,7 @@ http://95.85.109.219:7000/play/a063
 #EXTINF:-1 group-title="Знания", National Geographic HD
 http://178.217.72.66:8080/National_Geographic/index.m3u8
 #EXTINF:-1 group-title="Знания", National Geographic Wild
-http://45.159.74.22/NatGeoWild/tracks-v1a1/mono.m3u8
+http://188.237.47.212:6005
 #EXTINF:-1 group-title="Знания", National Geographic Wild HD
 http://178.217.72.66:8080/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 group-title="Знания", One Planet 🛡️
@@ -994,10 +978,14 @@ http://195.18.23.20:8000/play/1/index.m3u8
 http://178.217.72.66:8080/Dialogi_O_Rybalke/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Дикий
 http://178.217.72.66:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая охота
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая охота HD
-http://45.159.74.22/Channel_127/tracks-v1a1/mono.m3u8
+http://93.125.121.61:8383/play/a00o
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
-http://45.159.74.22/Channel_126/tracks-v1a1/mono.m3u8
+http://93.125.121.61:8383/play/a00n
 #EXTINF:-1 group-title="Хобби", Драйв
 http://85.117.61.97:8000/play/a022/index.m3u8
 #EXTINF:-1 group-title="Хобби", Живи!
@@ -1019,23 +1007,27 @@ http://213.230.65.254:8000/play/a013
 #EXTINF:-1 group-title="Хобби", Оружие
 http://178.217.72.66:8080/orujie/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охота и рыбалка
-http://85.117.61.97:8000/play/a01e/index.m3u8
+http://93.125.121.61:8383/play/a032
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов
-http://45.159.74.22/Channel_124/index.m3u8
+http://46.8.46.14/ohota/index.m3u8
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://178.217.72.66:8080/ohotnikirybalovhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Рыбалка и охота
 http://213.169.39.30:5262
 #EXTINF:-1 group-title="Хобби", Рыболов
 http://178.217.72.66:8080/rybolov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Сити Эдем — АвтоГид
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби", Сити Эдем — МедЗдрав
+https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби", Сити Эдем — Рецепты Гурмана
+https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Хобби", Телекафе
-http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
+http://46.8.46.14/telecafe/index.m3u8
 #EXTINF:-1 group-title="Хобби", Тонус
-http://45.159.74.22/ZooTv/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/tonus/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://178.217.72.66:8080/Usadba/index.m3u8
-#EXTINF:-1 group-title="Хобби", Усадьба HD
-http://89.221.57.5:8000/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Хобби", Box Game HD
 http://178.217.72.66:8080/BOX_GAME_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
@@ -1297,6 +1289,14 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка", Первый музыкальный Россия HD
 http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка", Сити Эдем — Classic Music
+https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — Meditation Music
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — БирмаПлей
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — СиртакиТВ
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Музыка", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка", ТНТ Music
