@@ -13,8 +13,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
 http://193.33.88.172/ort_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy-kanal-eurasia-kz", Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya.m3u8
 #EXTINF:-l group-title="Общие" tvg-id="pervy-kanal-eu", Первый канал Европа
 https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1
@@ -76,8 +74,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="rentv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Рен ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="rentv", Рен ТВ HD
-http://178.217.72.67:8080/REN_TV/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="rentv-int", Рен ТВ Int.
 http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
