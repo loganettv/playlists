@@ -1,4 +1,4 @@
-﻿#EXTM3U
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Общие" , loganettv all
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие" , telegram - t.me/loganettv_original
