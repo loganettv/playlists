@@ -315,6 +315,8 @@ http://193.33.88.172/kinojam1/tracks-v1a1/mono.m3u8
 http://193.33.88.172/kinojam2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", KinoLiving
 http://109.200.130.123:7537/play/a03k
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV ~
 http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино", Shot TV
