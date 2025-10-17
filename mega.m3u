@@ -5,7 +5,7 @@ https://t.me/loganettv_support
 https://t.me/loganettv_original
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" , Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал (архив)
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Первый канал +9 (Архив)
@@ -43,8 +43,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus" , НТВ-Беларусь
 http://194.158.222.36:6107
-#EXTINF:-1 group-title="Общие" tvg-id="ntv-mir" , НТВ-Мир ~~
-http://176.96.241.40/NTV_Mir/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" , Пятый канал
 http://95.66.188.74/5kanal/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Пятый канал (Архив)
@@ -131,7 +129,7 @@ http://194.32.242.245/a2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" , Дом кино
 http://46.8.46.14/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" , Дом кино Премиум
-http://213.252.199.137:8000/play/ch409_Dom_Kino_Premium_hd/index.m3u8
+http://85.11.144.6:6060/play/a07v/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" , Дом кино Премиум HD
 http://95.66.188.74/DomKinoPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama" , Дорама
@@ -141,7 +139,7 @@ http://195.158.223.132:8010/Evrokino
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" , Иллюзион+
 http://192.162.64.99:5100/play/a02j/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" , Индийское кино
-http://188.113.190.12/329/index.m3u8
+http://46.8.46.14/indiatv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv" , Индия
 http://192.162.64.99:5100/play/a03g/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko" , Кинеко
@@ -162,8 +160,6 @@ http://46.8.46.14/kinokomedia/index.m3u8
 http://192.162.64.99:5100/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks" , Киномикс
 http://195.64.140.147:10044/44
-#EXTINF:-1 , Киномикс HD
-http://46.8.46.14/kinomix/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" , Кинопоказ
 http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" , Кинопремьера
@@ -256,66 +252,60 @@ http://46.8.46.14/TV21/index.m3u8
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино" , Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
-#EXTINF:-1 group-title="Кино" , Amedia 2 HD
-http://tv.ttk.mx:9156
 #EXTINF:-1 group-title="Кино" , Amedia Hit HD
-http://93.125.121.61:8383/play/Intelsat85k1410
+http://s1.merlive.am/Amediahithd/index.m3u8
 #EXTINF:-1 group-title="Кино" , Amedia Premium HD
-http://93.125.121.61:8383/play/Intelsat85k812
+http://s1.merlive.am/amediapremium/index.m3u8
 #EXTINF:-1 group-title="Кино" , Bolt
-http://93.125.121.61:8383/play/a017
-#EXTINF:-1 group-title="Кино" tvg-id="bolt" audio-track="rus" , Bolt UA HD
+http://192.162.64.99:5100/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="bolt" , Bolt UA HD
 http://84.245.224.71/BoltHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" , Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" , Cinema HD
-http://93.125.121.61:8383/play/a00a
+http://195.64.140.147:10055/55
 #EXTINF:-1 group-title="Кино" , Comedy Central
 http://46.8.46.14/paramountcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино" , FAN HD
-http://193.33.88.172/fan/tracks-v1a1/mono.m3u8
+http://46.8.46.14/FAN/index.m3u8
 #EXTINF:-1 group-title="Кино" , FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
-#EXTINF:-1 group-title="Кино" , FilmBox Arthouse
-http://109.200.130.123:7526/play/a00p
 #EXTINF:-1 group-title="Кино" , FlixSnip
 http://194.32.242.245/flixsnip/index.m3u8
 #EXTINF:-1 group-title="Кино" , FX
 http://46.8.46.14/FOX/index.m3u8
+#EXTINF:-1 group-title="Кино" , FX HD
+http://212.12.194.90:8080/foxhd/index.m3u8
 #EXTINF:-1 group-title="Кино" , FX Life ~
 http://188.237.47.212:6008
 #EXTINF:-1 group-title="Кино" , Hollywood
-http://109.200.130.123:7537/play/a03g
+http://192.162.64.99:5100/play/a02i/index.m3u8
 #EXTINF:-1 group-title="Кино" , Hollywood HD
 http://194.32.242.245/hollywoodhd/index.m3u8
 #EXTINF:-1 group-title="Кино" , Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinojam1" , KinoJam 1 ~
-http://193.33.88.172/kinojam1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinojam2" , KinoJam 2 ~
-http://193.33.88.172/kinojam2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" , KinoLiving
-http://109.200.130.123:7537/play/a03k
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png" , Revolyo Mnemo
 https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино" , Saga TV ~
 http://178.212.71.253:8001/play/144/index.m3u8
 #EXTINF:-1 group-title="Кино" , Shot TV
-http://93.125.121.61:8383/play/a034
+http://192.162.64.99:5100/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Кино" , Star Cinema HD
+http://192.162.64.99:5100/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-cinema-eu" audio-track="rus" , Star Cinema EU HD
 http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="Кино" , Star Cinema
+http://192.162.64.99:5100/play/a02u/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-family-eu" audio-track="rus" , Star Family EU HD
-http://178.217.72.66:8080/Star_Family_HD/tracks-v1a1/mono.m3u8
+http://84.245.224.71/StarFamilyHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" , Start Air
 http://195.64.140.147:10063/63
 #EXTINF:-1 group-title="Кино" , Start Air HD
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
-#EXTINF:-1 group-title="Кино" , Start World
-http://109.200.130.123:7526/play/a008
 #EXTINF:-1 group-title="Кино" , Start World HD
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1 group-title="Кино" , Timeless Dizi
-http://tv.ttk.mx:9189
+http://192.162.64.99:5100/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-globalkino" , TV1000 Русское кино Global
 http://213.169.39.30:5006
 #EXTINF:-1 group-title="Кино" , Viasat Kino Comedy HD 🛡
@@ -331,9 +321,9 @@ http://46.8.46.14/actiontv/index.m3u8
 #EXTINF:-1 group-title="Кино" , viju TV1000 русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино" , viju+ Comedy
-http://194.32.242.245/vipcomedy/index.m3u8
+http://46.8.46.14/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино" , viju+ Comedy HD
-http://93.125.121.61:8383/play/a00m
+http://87.246.54.249:8085/Viju_Comedy/mpegts
 #EXTINF:-1 group-title="Кино" , viju+ Megahit
 http://46.8.46.14/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино" , viju+ Megahit HD
@@ -341,9 +331,9 @@ http://194.32.242.245/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино" , viju+ Premiere
 http://194.32.242.245/vippremiere/index.m3u8
 #EXTINF:-1 group-title="Кино" , viju+ Premiere HD
-http://93.125.121.61:8383/play/a037
+http://192.162.64.99:5200/play/a02f/index.m3u8
 #EXTINF:-1 group-title="Детям" , В гостях у сказки
-http://109.200.130.123:7055/play/a016
+http://195.64.140.147:10136/136
 #EXTINF:-1 group-title="Детям" , Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
 #EXTINF:-1 group-title="Детям" , Детское кино Int.
@@ -365,17 +355,17 @@ http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Детям" , Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Детям" , Мультиландия
-http://93.125.121.61:8383/play/a02j
+http://192.162.64.99:5100/play/a034/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="multimania-lv" , Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" , Мультимузыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
 #EXTINF:-1 group-title="Детям" , О!
-http://185.78.112.17/o_/index.m3u8
+http://195.64.140.147:10124/124
 #EXTINF:-1 group-title="Детям" , Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детям" , Рыжий
-http://185.78.112.17/ryzhiy/index.m3u8
+http://46.8.46.14/Ryzhiy/index.m3u8
 #EXTINF:-1 group-title="Детям" , Смайл ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="solnce" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}" , Солнце (Архив)
@@ -387,9 +377,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детям" , Солнце
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Детям" , СТС Kids
-http://195.26.83.96:7006/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Детям" , СТС Kids HD
-http://185.78.112.17/sts_kids/index.m3u8
+http://195.158.223.132:8010/STS_Kids
 #EXTINF:-1 group-title="Детям" tvg-id="malysh" , СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
 #EXTINF:-1 group-title="Детям" tvg-id="tooku" , Тооку HD
@@ -401,11 +389,13 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" , Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детям" , Cartoon Classics
-http://93.125.121.61:8383/play/a00s
+http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:-1 group-title="Детям" , Cartoon Network
 http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Детям" , Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
 #EXTINF:-1 group-title="Детям" , Da Vinci
-http://tv.ttk.mx:9188
+http://158.101.222.193:88/georgia_play.php?id=davinci
 #EXTINF:-1 group-title="Детям" , Fox Kids
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детям" , Gulli Girl
