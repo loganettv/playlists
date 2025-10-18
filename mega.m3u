@@ -100,16 +100,26 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="vmeste-rf" , Вместе-РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="krym24" , Крым 24
+http://live24.1tvcrimea.ru/switcher.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="millet" , Миллет
+http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="novgorodskoe-obl-tv" , Новгородское областное телевидение
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntk-kz" , НТК
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="nts-sevastopol" , НТС Севастополь
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ont-by" , ОНТ
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ont-by" , ОНТ HD
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy-krymsky" , Первый крымский
+http://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simfer24" , Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="stv-by" , СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="tcb" , ТСВ Приднестровье HD
@@ -959,18 +969,6 @@ http://87.246.54.249:8085/KHL/mpegts
 http://192.162.64.99:5200/play/a046/index.m3u8
 #EXTINF:-1 group-title="Спорт" , MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
-#EXTINF:-1 , Nova Sport 1
-https://176.116.105.82/Nova_Sport1_HD/index.m3u8
-#EXTINF:-1 , Nova Sport 2
-https://176.116.105.82/NovaSport2_HD/index.m3u8
-#EXTINF:-1 , Nova Sport 3
-https://176.116.105.82/NovaSport3_HD/index.m3u8
-#EXTINF:-1 , Nova Sport 4
-https://176.116.105.82/NovaSport4_HD/index.m3u8
-#EXTINF:-1 , Nova Sport 5
-https://176.116.105.82/NovaSport5_HD/index.m3u8
-#EXTINF:-1 , Nova Sport 6
-https://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" , Okko Спорт. Прайм HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт" , Premier Sport 1 🛡️
