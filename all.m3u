@@ -100,16 +100,26 @@ http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="vmeste-rf", Вместе-РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="krym24", Крым 24
+http://live24.1tvcrimea.ru/switcher.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="millet", Миллет
+http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="novgorodskoe-obl-tv", Новгородское областное телевидение
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntk-kz", НТК
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="nts-sevastopol", НТС Севастополь
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ont-by", ОНТ
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ont-by", ОНТ HD
 https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy-krymsky", Первый крымский
+http://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simfer24", Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="stv-by", СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="tcb", ТСВ Приднестровье HD
