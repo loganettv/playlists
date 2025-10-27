@@ -7,6 +7,8 @@ https://t.me/loganettv_original
 http://195.64.140.147:10136/136
 #EXTINF:-1 group-title="Детям", Детский мир
 http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детям", Детский мир HD
+http://178.217.72.72/Detskiy_Mir/index.m3u8
 #EXTINF:-1 group-title="Детям", Детское кино Int.
 https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (Архив)
@@ -16,7 +18,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детям", Карусель
-http://194.32.242.245/Karusel/index.m3u8
+http://46.8.46.14/Karusel/index.m3u8
 #EXTINF:-1 group-title="Детям", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Мамонтенок
@@ -26,7 +28,7 @@ http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Детям", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Мультиландия
-http://192.162.64.99:5100/play/a034/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/multimaniya/chunks.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="multimania-lv", Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Мультимузыка
@@ -49,8 +51,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Детям", СТС Kids
 http://195.158.223.132:8010/STS_Kids
+#EXTINF:-1 group-title="Детям", СТС Kids HD
+http://iptv46.mcx-ix.ru:8077/sts_kids/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="malysh", СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Детям", СуперГерои HD
+http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="tooku", Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Уникум
@@ -71,7 +77,15 @@ http://158.101.222.193:88/georgia_play.php?id=davinci
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детям", Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
+#EXTINF:-1 group-title="Детям", JimJam
+http://iptv46.mcx-ix.ru:8077/JimJam/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детям", Nickelodeon HD
+http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детям", Nick Jr.
+http://46.8.46.14/nickjr/index.m3u8
+#EXTINF:-1 group-title="Детям", NickToons
+http://94.232.127.28:8080/nicktoons/index.m3u8
 #EXTINF:-1 group-title="Детям", TiJi
 http://188.190.222.53/TiJi/index.m3u8
