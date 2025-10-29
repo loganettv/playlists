@@ -645,8 +645,6 @@ http://45.11.139.43:8555/doctor/index.m3u8
 http://46.8.46.14/domzhivot/index.m3u8
 #EXTINF:-1 group-title="Знания", Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="Знания", Живи активно
-http://192.162.64.99:5300/play/a02k/index.m3u8
 #EXTINF:-1 group-title="Знания", Звезда Плюс
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Звезда Плюс HD
@@ -696,17 +694,19 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="galaxy-tv", Тайны Галактики
-http://192.162.64.99:5200/play/a035/index.m3u8
+http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="terra-inkognita", Терра Инкогнита HD
 http://178.124.153.123:44400/terra
 #EXTINF:-1 group-title="Знания", Точка отрыва
-http://192.162.64.99:5000/play/a03r/index.m3u8
+http://87.76.32.36:8001/tochkaotriva
 #EXTINF:-1 group-title="Знания", Точка.РФ
 http://95.66.188.74/HD_Life/mono.m3u8
 #EXTINF:-1 group-title="Знания", Точка.РФ HD
 http://158.101.222.193:88/georgia_play.php?id=hdlife
-#EXTINF:-1 group-title="Знания", Animal Planet ~
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Animal Planet
+http://94.232.127.28:8080/animal-planet/index.m3u8
+#EXTINF:-1 group-title="Знания", Animal Planet HD
+http://178.217.72.72/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Знания", DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
@@ -730,7 +730,7 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 #EXTINF:-1 group-title="Знания", Silk Way HD
 https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="terra-ru", Terra
-http://192.162.64.99:5000/play/a037/index.m3u8
+http://193.25.8.59:8000/natgeo
 #EXTINF:-1 group-title="Знания", Trace Sport Stars
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1 group-title="Знания" tvg-id="tv-brics", TV BRICS
@@ -741,12 +741,20 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="univer-tv", Univer HD
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Знания", Viasat Nature
+http://87.246.54.249:8085/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Знания", viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Знания", viju Nature HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat_nature/chunks.m3u8
 #EXTINF:-1 group-title="Знания", viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Знания", viju History HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat-history/chunks.m3u8
 #EXTINF:-1 group-title="Знания", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Знания", viju Explore HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat_explore/chunks.m3u8
 #EXTINF:-1 group-title="Знания", viju+ Planet HD
 http://195.64.140.147:10147/147
 #EXTINF:-1 group-title="Знания", Zooпарк
@@ -799,24 +807,26 @@ https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Хобби", Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="Хобби", Авто 24 HD
+http://178.217.72.72/Avto_24/index.m3u8
 #EXTINF:-1 group-title="Хобби", Авто Плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобер
 http://95.66.188.74/Bober/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
-http://192.162.64.99:5000/play/a03b/index.m3u8
+http://195.64.140.147:10117/117
 #EXTINF:-1 group-title="Хобби", Дикий
 http://195.64.140.147:10139/139
 #EXTINF:-1 group-title="Хобби", Дикая охота
 http://217.21.34.160:38007/dikayaohotahd/index.m3u8
-#EXTINF:-1 group-title="Хобби", Дикая охота HD
-http://192.162.64.99:5000/play/a03a/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка
 http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 #EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
 http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 group-title="Хобби", Драйв
 http://46.8.46.14/Drive/index.m3u8
+#EXTINF:-1 group-title="Хобби", Еда
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eda/chunks.m3u8
 #EXTINF:-1 group-title="Хобби", Живи!
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 group-title="Хобби", Живи! HD
@@ -856,7 +866,7 @@ http://46.8.46.14/telecafe/index.m3u8
 #EXTINF:-1 group-title="Хобби", Усадьба
 http://95.66.188.74/Usadba/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
-http://192.162.64.99:5000/play/a02w/index.m3u8
+http://178.217.72.72/e_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV
@@ -864,7 +874,7 @@ http://84.245.224.71/FashionTVHD/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time HD ~
-http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
+http://217.25.80.16/Eda_HD/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel", World Fashion Channel HD
@@ -900,9 +910,11 @@ https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Архив)
@@ -918,9 +930,11 @@ http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://193.111.244.35:7474/matcharena/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matcharenahd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец
 http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Спорт", Матч! Боец HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchboec/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Планета
@@ -928,21 +942,25 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchpremierhd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://195.64.140.147:10099/99
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://188.190.222.53/Match_Futbol_1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
-http://193.111.244.35:7474/matchfut1hd/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol1hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://193.111.244.35:7474/matchfutbol2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol2hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://188.190.222.53/Match_Futbol_3/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
 http://195.64.140.147:10111/111
 #EXTINF:-1 group-title="Спорт" tvg-id="start", Старт ~
-http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+http://217.25.80.16/start_hd/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт", Футбол
@@ -966,17 +984,15 @@ http://213.169.39.30:5136
 #EXTINF:-1 group-title="Спорт", Diema Sport 3
 http://213.169.39.30:5216
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://192.162.64.99:5000/play/a01j/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport/chunks.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
 #EXTINF:-1 group-title="Спорт", Eurosport 2
-http://192.162.64.99:5000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport2/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4K 🛡️
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
-#EXTINF:-1 group-title="Спорт", Extreme Sports HD
-http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
 http://188.190.222.53/FightBOX/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
@@ -998,9 +1014,9 @@ http://194.32.242.245/khl/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
 http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
-http://87.246.54.249:8085/KHL/mpegts
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
-http://192.162.64.99:5200/play/a046/index.m3u8
+http://87.246.54.249:8085/KHL/mpegts
 #EXTINF:-1 group-title="Спорт", MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
@@ -1099,8 +1115,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://188.190.222.53/BridgeTV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
 http://195.158.223.132:8004/Bridge_Classic
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd", Bridge Deluxe
-http://192.162.64.99:5200/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd", Bridge Deluxe HD ~
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
@@ -1114,7 +1128,7 @@ http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager", Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно
-http://192.162.64.99:5200/play/a00b/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD RU Rock HD
@@ -1155,8 +1169,6 @@ http://190.102.246.93:9005/play/a01p
 http://185.236.229.62:9981/play/a02b
 #EXTINF:-1 group-title="Музыка", Radio M2O
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 group-title="Музыка", Retro Music
-http://78.130.250.2:8023/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV HD
@@ -1178,6 +1190,6 @@ http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 group-title="Релакс", Fireplace 4K
 https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 #EXTINF:-1 group-title="Релакс", Home 4K
-http://178.217.72.66:8080/HOME_4K/index.m3u8
+http://178.217.72.72/HOME_4K/index.m3u8
 #EXTINF:-1 group-title="Релакс", Underwater 4K
 https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US700012OU
