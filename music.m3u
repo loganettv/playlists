@@ -59,8 +59,6 @@ http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 http://188.190.222.53/BridgeTV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
 http://195.158.223.132:8004/Bridge_Classic
-#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd", Bridge Deluxe
-http://192.162.64.99:5200/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd", Bridge Deluxe HD ~
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Hits
@@ -74,7 +72,7 @@ http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager", Bridge Шлягер
 http://178.212.71.253:8000/play/142/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Этно
-http://192.162.64.99:5200/play/a00b/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid520/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка", CHD RU Rock HD
@@ -115,8 +113,6 @@ http://190.102.246.93:9005/play/a01p
 http://185.236.229.62:9981/play/a02b
 #EXTINF:-1 group-title="Музыка", Radio M2O
 https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
-#EXTINF:-1 group-title="Музыка", Retro Music
-http://78.130.250.2:8023/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV
 http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 group-title="Музыка", RU.TV HD
