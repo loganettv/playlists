@@ -1,0 +1,45 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Общие", loganettv legion
+https://t.me/loganettv_support
+#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
+https://t.me/loganettv_original
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1
+http://194.32.242.245/rossiya1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
+http://95.66.188.74/5kanal/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Россия Культура
+http://185.46.16.239:8000/Rossiya_K
+#EXTINF:-1 group-title="Новости", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Детям", Карусель
+http://46.8.46.14/Karusel/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="otr", ОТР
+http://194.32.242.245/otr/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr", ТВ Центр
+http://5.188.221.43:8080/play/tv-centr
+#EXTINF:-1 group-title="Общие" tvg-id="rentv", Рен ТВ
+http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="Религия", Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС
+http://188.190.222.53/CTC/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Домашний
+http://188.190.222.53/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ТВ3
+http://185.46.16.239:8000/TV3
+#EXTINF:-1 group-title="Развлечение", Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
+http://185.46.16.239:8000/Mir
+#EXTINF:-1 group-title="Развлечение", ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 group-title="Музыка", Муз-ТВ
+http://45.11.139.43:8555/muz/index.m3u8
