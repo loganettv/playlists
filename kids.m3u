@@ -52,11 +52,9 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 #EXTINF:-1 group-title="Детям", СТС Kids
 http://195.158.223.132:8010/STS_Kids
 #EXTINF:-1 group-title="Детям", СТС Kids HD
-http://iptv46.mcx-ix.ru:8077/sts_kids/index.m3u8
+http://217.25.80.16/CTC_Kids_HD/mono.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="malysh", СуперГерои
 http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="Детям", СуперГерои HD
-http://iptv46.mcx-ix.ru:8077/malish/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="tooku", Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Уникум
@@ -78,11 +76,11 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детям", Gulli Girl
 http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 group-title="Детям", JimJam
-http://iptv46.mcx-ix.ru:8077/JimJam/index.m3u8
+http://178.217.72.72/JimJam/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon HD
-http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/nickelodeon/chunks.m3u8
 #EXTINF:-1 group-title="Детям", Nick Jr.
 http://46.8.46.14/nickjr/index.m3u8
 #EXTINF:-1 group-title="Детям", NickToons
