@@ -6,9 +6,11 @@ https://t.me/loganettv_original
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет HD
-https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
 #EXTINF:-1 group-title="Спорт", Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спорт", Бокс ТВ HD
+https://a3285272783-s80718.cdn.ngenix.net/hls/CH_BOKS_TVHD/video_1920x1080_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 group-title="Спорт", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Архив)
@@ -24,9 +26,11 @@ http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 #EXTINF:-1 group-title="Спорт", Матч! Арена HD
-http://193.111.244.35:7474/matcharena/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matcharenahd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Боец
 http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Спорт", Матч! Боец HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchboec/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Игра
 http://87.120.142.11:18000/Match!Igra
 #EXTINF:-1 group-title="Спорт", Матч! Планета
@@ -34,21 +38,25 @@ http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт", Матч! Премьер
 http://46.8.46.14/premier/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Премьер HD
-http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchpremierhd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Страна
 http://195.64.140.147:10099/99
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1
 http://188.190.222.53/Match_Futbol_1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
-http://193.111.244.35:7474/matchfut1hd/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol1hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
 http://193.111.244.35:7474/matchfutbol2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol2hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
 http://188.190.222.53/Match_Futbol_3/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
 http://195.64.140.147:10111/111
 #EXTINF:-1 group-title="Спорт" tvg-id="start", Старт ~
-http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+http://217.25.80.16/start_hd/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт", Футбол
@@ -72,17 +80,15 @@ http://213.169.39.30:5136
 #EXTINF:-1 group-title="Спорт", Diema Sport 3
 http://213.169.39.30:5216
 #EXTINF:-1 group-title="Спорт", Eurosport 1
-http://192.162.64.99:5000/play/a01j/index.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport/chunks.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
 #EXTINF:-1 group-title="Спорт", Eurosport 2
-http://192.162.64.99:5000/play/a035/index.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport2/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Eurosport 4K 🛡️
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
-#EXTINF:-1 group-title="Спорт", Extreme Sports HD
-http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
 http://188.190.222.53/FightBOX/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
@@ -104,9 +110,9 @@ http://194.32.242.245/khl/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
 http://84.245.224.71/KHLHD/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
-http://87.246.54.249:8085/KHL/mpegts
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
-http://192.162.64.99:5200/play/a046/index.m3u8
+http://87.246.54.249:8085/KHL/mpegts
 #EXTINF:-1 group-title="Спорт", MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
 #EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
