@@ -55,6 +55,10 @@ http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 https://176.116.105.82/Dorcel_HD/index.m3u8
 #EXTINF:-1 group-title="Эротика", Dorcel TV HD
 http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика", Dorcel XXX
+http://85.11.144.9:50999/105
+#EXTINF:-1 group-title="Эротика", Erota
+http://85.11.144.9:50999/31
 #EXTINF:-1 group-title="Эротика", Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Eroxxx HD
@@ -85,9 +89,19 @@ http://213.169.39.30:5036
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="Эротика", Reality Kings TV HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика", Redlight HD
+http://85.11.144.9:50999/39
 #EXTINF:-1 group-title="Эротика", SuperOne
 http://185.166.252.230/SuperOne/index.m3u8
 #EXTINF:-1 group-title="Эротика", Venus
 http://181.188.216.5:18000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Эротика", Vivid TV
+http://85.11.144.9:50999/42
+#EXTINF:-1 group-title="Эротика", XY Plus
+http://85.11.144.9:50999/35
+#EXTINF:-1 group-title="Эротика", XY Mix
+http://85.11.144.9:50999/101
+#EXTINF:-1 group-title="Эротика", XY Max
+http://85.11.144.9:50999/102
 #EXTINF:-1 group-title="Эротика", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8
