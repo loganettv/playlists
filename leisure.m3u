@@ -138,8 +138,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://91.194.191.241:8081/chid30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Время
 http://195.64.140.147:10166/166
-#EXTINF:-1 group-title="Развлечение", Глазами туриста
-http://iptv46.mcx-ix.ru:8077/glazami_turista_hd/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Глазами туриста HD
 http://217.21.34.160:38007/glazami_turista/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="domashny" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (Архив)
@@ -171,7 +169,7 @@ http://158.101.222.193:88/georgia_play.php?id=perec
 #EXTINF:-1 group-title="Развлечение", Поехали!
 http://95.66.188.74/Poehali/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Приключения
-http://iptv46.mcx-ix.ru:8077/teletravel_hd/index.m3u8
+http://tvip.btk.teleos.ru:8081/chid142/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="prikluchenia-hd", Приключения HD
 http://46.8.46.14/AdventureHD/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Продвижение
@@ -295,7 +293,7 @@ http://94.232.127.28:8080/discovery-east/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Discovery HD
 http://195.64.140.147:10151/151
 #EXTINF:-1 group-title="Развлечение", Gagsnetwork
-http://iptv46.mcx-ix.ru:8077/raz-tv/index.m3u8
+http://217.25.80.16/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Investigation Discovery
 http://46.8.46.14/InvestigationDiscovery/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Nano
