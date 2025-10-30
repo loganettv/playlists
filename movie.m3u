@@ -9,6 +9,10 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/sony_turbo/chunks.m3u8
 http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi", .Sci-Fi
 http://94.232.127.28:8080/sony-scifi/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd", Блокбастер HD
+http://iptv46.mcx-ix.ru:8077/blokbaster_hd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="denpobedy", День Победы HD
+http://188.190.222.53/Match_Futbol_2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino", Дом кино
 http://46.8.46.14/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium", Дом кино Премиум
@@ -25,6 +29,8 @@ http://188.190.222.53/Illuzion+/index.m3u8
 http://46.8.46.14/indiatv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="Кино" tvg-id="kamedi", Камеди
+http://217.25.80.16/kamedi_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко HD
@@ -91,6 +97,12 @@ http://194.32.242.245/nst/index.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное
+http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/ostrosyzhetnoe/chunks.m3u8
+#EXTINF:-1 group-title="Кино", Про любовь
+http://217.25.80.16/pro_lubov_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино", Ретро
 https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино
@@ -135,8 +147,16 @@ https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Советская киноклассика
+http://217.25.80.16/aiva_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино", Страшное HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/strashnoe_hd/chunks.m3u8
 #EXTINF:-1 group-title="Кино", ТВ21
 http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="Кино", Хит
+http://217.25.80.16/hit_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее
+http://178.217.72.72/shokiruushee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино", Amedia 1 HD
@@ -157,12 +177,20 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://195.64.140.147:10055/55
 #EXTINF:-1 group-title="Кино", Comedy Central
 http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 group-title="Кино", Duo 3
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 group-title="Кино", Duo 6
+http://94.232.127.28:8080/sony-turbo/index.m3u8
 #EXTINF:-1 group-title="Кино", FAN
 http://178.217.72.72/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FAN HD
 http://46.8.46.14/FAN/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
+#EXTINF:-1 group-title="Кино", FilmBox Arthouse
+http://217.25.80.16/FilmBOX_Arthouse/mono.m3u8
+#EXTINF:-1 group-title="Кино", FilmZone
+http://fs1.starnet.lv:8080/FilmZone/index.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://194.32.242.245/flixsnip/index.m3u8
 #EXTINF:-1 group-title="Кино", FX
@@ -177,6 +205,10 @@ http://193.25.8.59:8000/interaz
 http://194.32.242.245/hollywoodhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Кино", Movie Classic
+http://195.64.140.147:10061/61
+#EXTINF:-1 group-title="Кино", Plan_B HD
+http://195.64.140.147:10082/82
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
 https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV ~
