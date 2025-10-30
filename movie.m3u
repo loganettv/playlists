@@ -233,6 +233,8 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-globalkino", TV1000 Русское кино Global
 http://213.169.39.30:5006
+#EXTINF:-1 group-title="Кино", VHS-ка
+http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino
 http://94.232.127.28:8080/tv1000/index.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino Action
