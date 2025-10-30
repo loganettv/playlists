@@ -19,6 +19,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детям", Карусель
 http://46.8.46.14/Karusel/index.m3u8
+#EXTINF:-1 group-title="Детям", КиноМульт
+http://tvip.btk.teleos.ru:8081/chid173/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Мамонтенок
@@ -63,6 +65,8 @@ http://158.101.222.193:88/georgia_play.php?id=unikum
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детям", Baby Time
+https://blueberry.uvs.onlinetv.link/cdn_origin2/babytv/chunks.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Network
@@ -77,6 +81,8 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 group-title="Детям", JimJam
 http://178.217.72.72/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детям", Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon HD
