@@ -46,7 +46,7 @@ http://188.190.222.53/Match_Futbol_1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol1hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://193.111.244.35:7474/matchfutbol2/index.m3u8
+http://188.190.222.53/Match_Futbol_2/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol2hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
@@ -115,12 +115,14 @@ http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 http://87.246.54.249:8085/KHL/mpegts
 #EXTINF:-1 group-title="Спорт", MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
-#EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
+#EXTINF:-1 group-title="Спорт", Okko Прайм Спорт HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sport 1 🛡️
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sport 2 🛡️
 https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Спорт", QazSport
+http://87.76.32.36:8001/qazsport
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
