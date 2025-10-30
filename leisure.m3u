@@ -61,6 +61,8 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Знания", Океан
 http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 group-title="Знания", Первый вегетарианский
+http://178.217.72.72/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Победа
@@ -71,6 +73,8 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Знания", Ратник
+http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="galaxy-tv", Тайны Галактики
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="terra-inkognita", Терра Инкогнита HD
@@ -85,6 +89,10 @@ http://158.101.222.193:88/georgia_play.php?id=hdlife
 http://94.232.127.28:8080/animal-planet/index.m3u8
 #EXTINF:-1 group-title="Знания", Animal Planet HD
 http://178.217.72.72/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Big Planet
+http://217.25.80.16/Nat_Geo_Wild/mono.m3u8
+#EXTINF:-1 group-title="Знания", Big Planet HD
+http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Знания", DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
