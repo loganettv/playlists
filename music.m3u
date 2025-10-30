@@ -55,6 +55,8 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Aiva HD
+http://iptv46.mcx-ix.ru:8077/aiva_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
 http://188.190.222.53/BridgeTV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
