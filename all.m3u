@@ -136,6 +136,10 @@ https://blueberry.uvs.onlinetv.link/cdn_origin2/sony_turbo/chunks.m3u8
 http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi", .Sci-Fi
 http://94.232.127.28:8080/sony-scifi/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="blokbaster-hd", Блокбастер HD
+http://iptv46.mcx-ix.ru:8077/blokbaster_hd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="denpobedy", День Победы HD
+http://188.190.222.53/Match_Futbol_2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino", Дом кино
 http://46.8.46.14/domkino/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium", Дом кино Премиум
@@ -152,6 +156,8 @@ http://188.190.222.53/Illuzion+/index.m3u8
 http://46.8.46.14/indiatv/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv", Индия
 http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1 group-title="Кино" tvg-id="kamedi", Камеди
+http://217.25.80.16/kamedi_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко
 http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко HD
@@ -218,6 +224,12 @@ http://194.32.242.245/nst/index.m3u8
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное
+http://188.190.222.53/Ostrosugetnoe_HD/index.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/ostrosyzhetnoe/chunks.m3u8
+#EXTINF:-1 group-title="Кино", Про любовь
+http://217.25.80.16/pro_lubov_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино", Ретро
 https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино", Родное кино
@@ -262,8 +274,16 @@ https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
 https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — Христианский
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", Советская киноклассика
+http://217.25.80.16/aiva_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино", Страшное HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/strashnoe_hd/chunks.m3u8
 #EXTINF:-1 group-title="Кино", ТВ21
 http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="Кино", Хит
+http://217.25.80.16/hit_hd/mono.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее
+http://178.217.72.72/shokiruushee/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1 group-title="Кино", Amedia 1 HD
@@ -284,12 +304,20 @@ http://catchup.videoline.ru/cinema/index.m3u8
 http://195.64.140.147:10055/55
 #EXTINF:-1 group-title="Кино", Comedy Central
 http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 group-title="Кино", Duo 3
+http://94.232.127.28:8080/sony/index.m3u8
+#EXTINF:-1 group-title="Кино", Duo 6
+http://94.232.127.28:8080/sony-turbo/index.m3u8
 #EXTINF:-1 group-title="Кино", FAN
 http://178.217.72.72/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FAN HD
 http://46.8.46.14/FAN/index.m3u8
 #EXTINF:-1 group-title="Кино", FilmBox
 http://188.190.222.53/FilmBOX/index.m3u8
+#EXTINF:-1 group-title="Кино", FilmBox Arthouse
+http://217.25.80.16/FilmBOX_Arthouse/mono.m3u8
+#EXTINF:-1 group-title="Кино", FilmZone
+http://fs1.starnet.lv:8080/FilmZone/index.m3u8
 #EXTINF:-1 group-title="Кино", FlixSnip
 http://194.32.242.245/flixsnip/index.m3u8
 #EXTINF:-1 group-title="Кино", FX
@@ -304,6 +332,10 @@ http://193.25.8.59:8000/interaz
 http://194.32.242.245/hollywoodhd/index.m3u8
 #EXTINF:-1 group-title="Кино", Kino24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Кино", Movie Classic
+http://195.64.140.147:10061/61
+#EXTINF:-1 group-title="Кино", Plan_B HD
+http://195.64.140.147:10082/82
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
 https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
 #EXTINF:-1 group-title="Кино", Saga TV ~
@@ -374,6 +406,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детям", Карусель
 http://46.8.46.14/Karusel/index.m3u8
+#EXTINF:-1 group-title="Детям", КиноМульт
+http://tvip.btk.teleos.ru:8081/chid173/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Мамонтенок
@@ -418,6 +452,8 @@ http://158.101.222.193:88/georgia_play.php?id=unikum
 http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детям", Baby Time
+https://blueberry.uvs.onlinetv.link/cdn_origin2/babytv/chunks.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Network
@@ -432,6 +468,8 @@ http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 http://46.8.46.14/Gulli/index.m3u8
 #EXTINF:-1 group-title="Детям", JimJam
 http://178.217.72.72/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детям", Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon HD
@@ -683,6 +721,8 @@ http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
 #EXTINF:-1 group-title="Знания", Океан
 http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 group-title="Знания", Первый вегетарианский
+http://178.217.72.72/Pervyy_Vegetarianskiy/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Плюс Минус 16
 http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Победа
@@ -693,6 +733,8 @@ https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
 https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Знания", Ратник
+http://iptv46.mcx-ix.ru:8077/ratnik_hd/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="galaxy-tv", Тайны Галактики
 http://195.26.83.96:7007/play/a00j/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="terra-inkognita", Терра Инкогнита HD
@@ -707,6 +749,10 @@ http://158.101.222.193:88/georgia_play.php?id=hdlife
 http://94.232.127.28:8080/animal-planet/index.m3u8
 #EXTINF:-1 group-title="Знания", Animal Planet HD
 http://178.217.72.72/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Big Planet
+http://217.25.80.16/Nat_Geo_Wild/mono.m3u8
+#EXTINF:-1 group-title="Знания", Big Planet HD
+http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Знания", DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
@@ -950,7 +996,7 @@ http://188.190.222.53/Match_Futbol_1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol1hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2
-http://193.111.244.35:7474/matchfutbol2/index.m3u8
+http://188.190.222.53/Match_Futbol_2/index.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
 https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol2hd/chunks.m3u8
 #EXTINF:-1 group-title="Спорт", Матч! Футбол 3
@@ -1019,12 +1065,14 @@ http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 http://87.246.54.249:8085/KHL/mpegts
 #EXTINF:-1 group-title="Спорт", MMA-TV
 http://87.246.54.249:8085/MMATV/index.m3u8
-#EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
+#EXTINF:-1 group-title="Спорт", Okko Прайм Спорт HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Спорт", Premier Sport 1 🛡️
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт", Premier Sport 2 🛡️
 https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Спорт", QazSport
+http://87.76.32.36:8001/qazsport
 #EXTINF:-1 group-title="Спорт", Russian Extreme
 http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
@@ -1111,6 +1159,8 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
 http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Aiva HD
+http://iptv46.mcx-ix.ru:8077/aiva_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge
 http://188.190.222.53/BridgeTV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Classic
