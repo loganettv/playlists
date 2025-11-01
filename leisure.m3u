@@ -91,8 +91,6 @@ http://94.232.127.28:8080/animal-planet/index.m3u8
 http://178.217.72.72/Animal_Planet_HD/index.m3u8
 #EXTINF:-1 group-title="Знания", Big Planet
 http://217.25.80.16/Nat_Geo_Wild/mono.m3u8
-#EXTINF:-1 group-title="Знания", Big Planet HD
-http://109.75.59.241:8017/BigPlanet/index.m3u8
 #EXTINF:-1 group-title="Знания", DocuBox
 http://188.190.222.53/DocuBOX/index.m3u8
 #EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
@@ -127,22 +125,16 @@ http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="univer-tv", Univer HD
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Знания", Viasat Nature
-http://87.246.54.249:8085/ViasatNature/index.m3u8
 #EXTINF:-1 group-title="Знания", Viasat History
 http://94.232.127.28:8080/viasathistory/index.m3u8
 #EXTINF:-1 group-title="Знания", viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="Знания", viju Nature HD
-https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat_nature/chunks.m3u8
 #EXTINF:-1 group-title="Знания", viju History
 http://158.101.222.193:88/georgia_play.php?id=viasathist
 #EXTINF:-1 group-title="Знания", viju History HD
-https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat-history/chunks.m3u8
+http://iptv46.mcx-ix.ru:8077/ViasatHistoryHD/index.m3u8
 #EXTINF:-1 group-title="Знания", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Знания", viju Explore HD
-https://blueberry.uvs.onlinetv.link/cdn_origin2/viasat_explore/chunks.m3u8
 #EXTINF:-1 group-title="Знания", viju+ Planet HD
 http://195.64.140.147:10147/147
 #EXTINF:-1 group-title="Знания", Zooпарк
@@ -350,8 +342,6 @@ http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
 http://194.32.242.245/DikayarybalkaHD/index.m3u8
 #EXTINF:-1 group-title="Хобби", Драйв
 http://46.8.46.14/Drive/index.m3u8
-#EXTINF:-1 group-title="Хобби", Еда
-https://blueberry.uvs.onlinetv.link/cdn_origin2/eda/chunks.m3u8
 #EXTINF:-1 group-title="Хобби", Живи!
 http://158.101.222.193:88/georgia_play.php?id=jivi
 #EXTINF:-1 group-title="Хобби", Живи! HD
@@ -378,8 +368,8 @@ http://195.64.140.147:10039/39
 http://195.64.140.147:10162/162
 #EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
 http://46.8.46.14/ohota/index.m3u8
-#EXTINF:-1 group-title="Хобби", Рыбалка и охота
-http://213.169.39.30:5262
+#EXTINF:-1 group-title="Хобби", Рыбалка и охота ~
+http://87.76.32.36:8001/ohotairibalka
 #EXTINF:-1 group-title="Хобби", Сити Эдем — АвтоГид
 https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Хобби", Сити Эдем — МедЗдрав
