@@ -51,8 +51,8 @@ http://188.190.222.53/Match_Futbol_3/index.m3u8
 http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт", Мир баскетбола
 http://195.64.140.147:10111/111
-#EXTINF:-1 group-title="Спорт" tvg-id="start", Старт ~
-http://217.25.80.16/start_hd/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="start", Старт HD
+http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт", Футбол
@@ -79,6 +79,8 @@ http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт", Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Fast&FunBox HD
+http://94.232.127.28:8080/fastfunboxhd/index.m3u8
 #EXTINF:-1 group-title="Спорт", FightBox
 http://188.190.222.53/FightBOX/index.m3u8
 #EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
