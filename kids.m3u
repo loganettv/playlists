@@ -30,7 +30,7 @@ http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
 #EXTINF:-1 group-title="Детям", Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Мультиландия
-https://blueberry.uvs.onlinetv.link/cdn_origin2/multimaniya/chunks.m3u8
+http://iptv46.mcx-ix.ru:8077/multimania/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="multimania-lv", Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Мультимузыка
@@ -66,7 +66,7 @@ http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Ani
 http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
 #EXTINF:-1 group-title="Детям", Baby Time
-https://blueberry.uvs.onlinetv.link/cdn_origin2/babytv/chunks.m3u8
+http://178.217.72.72/babytime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Classics
 http://95.66.188.74/Cartoon_Classics/index.m3u8
 #EXTINF:-1 group-title="Детям", Cartoon Network
@@ -86,7 +86,7 @@ http://origin5.mediacdn.ru/live/kidstv/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon
 http://46.8.46.14/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям", Nickelodeon HD
-https://blueberry.uvs.onlinetv.link/cdn_origin2/nickelodeon/chunks.m3u8
+http://iptv46.mcx-ix.ru:8077/nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям", Nick Jr.
 http://46.8.46.14/nickjr/index.m3u8
 #EXTINF:-1 group-title="Детям", NickToons
