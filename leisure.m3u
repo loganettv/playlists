@@ -17,6 +17,8 @@ http://95.47.156.60:8000/play/a011/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания", Вкус
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
+#EXTINF:-1 group-title="Знания", В мире животных HD
+http://217.25.80.16/V_MIRE_GIVOTNIH_HD/mono.m3u8
 #EXTINF:-1 group-title="Знания", Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Знания", Домашние животные
@@ -33,6 +35,8 @@ http://95.66.188.74/ZdorovoeTV/index.m3u8
 http://95.66.188.74/Zoo_TV/mono.m3u8
 #EXTINF:-1 group-title="Знания", История
 http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="Знания", Инсайт ТВ UHD
+http://188.190.222.53/InsightUHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания", Конгресс ТВ
 https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
 #EXTINF:-1 group-title="Знания", Конгресс ТВ HD
@@ -302,6 +306,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://94.232.127.28:8080/discovery-east/index.m3u8
 #EXTINF:-1 group-title="Развлечение", Discovery HD
 http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="Развлечение", Epic
+http://193.25.8.59:8000/dtx
 #EXTINF:-1 group-title="Развлечение", Gagsnetwork
 http://217.25.80.16/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлечение", Investigation Discovery
@@ -388,8 +394,8 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://84.245.224.71/FashionTVHD/mono.m3u8
 #EXTINF:-1 group-title="Хобби", Fashion TV HD
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time HD ~
-http://217.25.80.16/Eda_HD/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time HD
+http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel", World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel", World Fashion Channel HD
