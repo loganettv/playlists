@@ -202,6 +202,8 @@ http://158.101.222.193:88/georgia_play.php?id=kinoujas
 http://195.64.140.147:10046/46
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit" , Кинохит HD
 http://195.158.223.132:8008/Kinohit
+#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe" , Комедийное HD
+http://188.190.222.53/Kinopokaz_HD2/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia" , Комедия
 http://178.217.72.72/Komediya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino" , Любимое кино
@@ -214,6 +216,8 @@ http://188.190.222.53/Mosfilm/index.m3u8
 http://95.66.188.74/MosfilmHD/index.m3u8
 #EXTINF:-1 group-title="Кино" , Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Кино" , Наше крутое
+http://217.25.80.16/nashe_hd/mono.m3u8
 #EXTINF:-1 group-title="Кино" , Наше новое кино
 http://195.64.140.147:10053/53
 #EXTINF:-1 group-title="Кино" , Наше новое кино HD
@@ -322,6 +326,8 @@ http://46.8.46.14/FOX/index.m3u8
 http://tvip.btk.teleos.ru:8081/chid67/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" , FX Life
 http://94.232.127.28:8080/foxlife/index.m3u8
+#EXTINF:-1 group-title="Кино" , Go3 Films HD
+http://94.232.127.28:8080/tv1000premium/index.m3u8
 #EXTINF:-1 group-title="Кино" , Hollywood
 http://193.25.8.59:8000/interaz
 #EXTINF:-1 group-title="Кино" , Hollywood HD
@@ -356,6 +362,8 @@ https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 http://193.25.8.59:8000/tlc
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000-globalkino" , TV1000 Русское кино Global
 http://213.169.39.30:5006
+#EXTINF:-1 group-title="Кино" , TV3 Plus
+http://139.28.255.188:8080/3plus/index.m3u8
 #EXTINF:-1 group-title="Кино" , VHS-ка
 http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1 group-title="Кино" , Viasat Kino
@@ -641,6 +649,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://94.232.127.28:8080/discovery-east/index.m3u8
 #EXTINF:-1 group-title="Развлечение" , Discovery HD
 http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="Развлечение" , Epic
+http://193.25.8.59:8000/dtx
 #EXTINF:-1 group-title="Развлечение" , Gagsnetwork
 http://217.25.80.16/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" , Investigation Discovery
@@ -675,6 +685,8 @@ http://95.47.156.60:8000/play/a011/index.m3u8
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" , Вкус
 http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
+#EXTINF:-1 group-title="Знания" , В мире животных HD
+http://217.25.80.16/V_MIRE_GIVOTNIH_HD/mono.m3u8
 #EXTINF:-1 group-title="Знания" , Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Знания" , Домашние животные
@@ -691,6 +703,8 @@ http://95.66.188.74/ZdorovoeTV/index.m3u8
 http://95.66.188.74/Zoo_TV/mono.m3u8
 #EXTINF:-1 group-title="Знания" , История
 http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="Знания" , Инсайт ТВ UHD
+http://188.190.222.53/InsightUHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания" , Конгресс ТВ
 https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
 #EXTINF:-1 group-title="Знания" , Конгресс ТВ HD
@@ -841,6 +855,8 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
 #EXTINF:-1 group-title="Новости" , Deutsche Welle
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 group-title="Новости" , Euronews HD
+http://fs1.starnet.lv:8080/Euronews/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="russia-today" , RT English HD
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Хобби" , Авто 24
@@ -909,8 +925,8 @@ http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 http://84.245.224.71/FashionTVHD/mono.m3u8
 #EXTINF:-1 group-title="Хобби" , Fashion TV HD
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd" , Food Time HD ~
-http://217.25.80.16/Eda_HD/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd" , Food Time HD
+http://iptv46.mcx-ix.ru:8077/eda_hd/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel" , World Fashion Channel
 http://live-3.otcnet.ru/wfcrus/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel" , World Fashion Channel HD
@@ -991,8 +1007,8 @@ http://188.190.222.53/Match_Futbol_3/index.m3u8
 http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" , Мир баскетбола
 http://195.64.140.147:10111/111
-#EXTINF:-1 group-title="Спорт" tvg-id="start" , Старт ~
-http://217.25.80.16/start_hd/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="start" , Старт HD
+http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="start" , Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт" , Футбол
@@ -1019,6 +1035,8 @@ http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
 https://7pal.short.gy/eusport4k
 #EXTINF:-1 group-title="Спорт" , Extreme Sports
 http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 group-title="Спорт" , Fast&FunBox HD
+http://94.232.127.28:8080/fastfunboxhd/index.m3u8
 #EXTINF:-1 group-title="Спорт" , FightBox
 http://188.190.222.53/FightBOX/index.m3u8
 #EXTINF:-1 group-title="Спорт" , Fox Sports 501 🛡️
