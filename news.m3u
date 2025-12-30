@@ -3,51 +3,63 @@
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
-#EXTINF:-1 group-title="Новости", 360° Новости HD
+#EXTINF:-1 group-title="Новости" tvg-id="360-news" audio-track="rus", 360° Новости
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="360-news" audio-track="rus", 360° Новости HD 
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 group-title="Новости", Беларусь 24
+#EXTINF:-1 group-title="Новости" tvg-id="belarus24" audio-track="rus", Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b1010000_sleng.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="belarus24" audio-track="rus", Беларусь 24 HD 
 https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
-#EXTINF:-1 group-title="Новости", Восток 24
+#EXTINF:-1 group-title="Новости",  Восток 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
-#EXTINF:-1 group-title="Новости", Известия
+#EXTINF:-1 group-title="Новости" tvg-id="izvestia" audio-track="rus", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Крик ТВ
+#EXTINF:-1 group-title="Новости" tvg-id="krik-tv" audio-track="rus", Крик ТВ HD 
 http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Кубань 24
+#EXTINF:-1 group-title="Новости",  Кубань 24
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
-#EXTINF:-1 group-title="Новости", Мир 24 HD
+#EXTINF:-1 group-title="Новости" audio-track="rus", Мир 24
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_mobil/playlist.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", Мир 24 HD 
 http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Новости", Москва 24
-http://194.32.242.245/moskva24/index.m3u8
-#EXTINF:-1 group-title="Новости", Москва. Доверие
-http://178.212.71.253:8000/play/53/index.m3u8
-#EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
+#EXTINF:-1 group-title="Новости" audio-track="rus", Москва 24
+https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
+#EXTINF:-1 group-title="Новости" audio-track="rus", ОТВ Екатеринбург
 https://vd.obltv.ru/watch/air_hd.m3u8
-#EXTINF:-1 group-title="Новости", Первый информационный
+#EXTINF:-1 group-title="Новости" audio-track="rus", Первый информационный
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
-#EXTINF:-1 group-title="Новости", РБК
+#EXTINF:-1 group-title="Новости" audio-track="rus", Первый информационный HD 
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", РБК
+http://online-video.rbc.ru/spb/rbctv_spb.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", РБК HD 
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости", Россия 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
+#EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24 HD 
+http://77.232.131.211/Rossiya24/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",  Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="rossia-24-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 +7 (Архив)
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}",  Россия 24 +7 (Архив) 
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
-#EXTINF:-1 group-title="Новости", Соловьев Live HD
+#EXTINF:-1 group-title="Новости" audio-track="rus", Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
-#EXTINF:-1 group-title="Новости", ТАСС
+#EXTINF:-1 group-title="Новости" audio-track="rus", ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", ТАСС HD 
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1 group-title="Новости", BBC World News
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-#EXTINF:-1 group-title="Новости", CNN
+#EXTINF:-1 group-title="Новости" audio-track="rus", BBC World News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&amp;ads.device_dnt=%7BTARGETOPT%7D&amp;ads.us_privacy=1YNY&amp;ads.app_domain=%7BAPP_DOMAIN%7D&amp;ads.app_name=%7BAPP_NAME%7D&amp;ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Новости" audio-track="rus", CNN
 http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
-#EXTINF:-1 group-title="Новости", Deutsche Welle
+#EXTINF:-1 group-title="Новости" audio-track="rus", Deutsche Welle
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 group-title="Новости", Euronews HD
-http://fs1.starnet.lv:8080/Euronews/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
+#EXTINF:-1 group-title="Новости" audio-track="rus", Euronews
+https://flussonic.salomtv.uz/EURONEWS/video.m3u8
+#EXTINF:-1 group-title="Новости" audio-track="rus", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
