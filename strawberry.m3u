@@ -43,15 +43,73 @@ http://cdn.adultiptv.net/russian.m3u8
 http://cdn.adultiptv.net/teen.m3u8
 #EXTINF:-1 group-title="Эротика",  Adult IPTV Threesome               
 http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="Эротика", Babes TV
+rus
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Babes TV HD
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Brazzers TV Europe
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Brazzers TV Europe HD 
 http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Desire HD
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Dorcel TV
 http://77.46.130.252:99/dorcel
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Playboy TV HD 
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Dorcel TV HD
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Dorcel XXX
+http://85.11.144.9:50999/105
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Erota
+http://85.11.144.9:50999/31
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Erox
+http://85.11.144.9:50999/26
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Erox HD
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Eroxxx
+http://85.11.144.9:50999/29
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Eroxxx HD
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Extasy
+http://85.11.144.9:50999/43
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Extasy HD
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Hot 1
+http://85.11.144.9:50999/34
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Hustler TV
+https://176.116.105.82/Hustler/index.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Hustler HD
+http://85.11.144.9:50999/30
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Leo TV
+http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Passion XXX
+http://85.11.144.9:50999/33
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Penthouse Gold HD
 http://178.23.88.55/Playboy/index.m3u8
+#EXTINF:-1 group-title="Эротика" catchup-source="rus", Penthouse Reality TV HD
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Playboy TV
+http://85.11.144.9:50999/47
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Playboy TV HD
+http://178.23.88.55/Playboy/index.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Private
 http://77.46.130.252:99/private
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Reality Kings TV
+http://85.11.144.9:50999/36
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Redlight HD
+http://85.11.144.9:50999/39
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Vivid TV Europe
+http://85.11.144.9:50999/41
+#EXTINF:-1 group-title="Эротика" audio-track="rus", XY Mix HD
+http://85.11.144.9:50999/101
 #EXTINF:-1 group-title="Эротика" audio-track="rus", XY Max
 http://79.124.21.250:8199/play/DiemaSport/index.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", XY Max HD
+http://85.11.144.9:50999/102
+#EXTINF:-1 group-title="Эротика" audio-track="rus", XY Plus
+http://85.11.144.9:50999/35
+#EXTINF:-1 group-title="Эротика" audio-track="rus", XY Plus HD
+http://85.11.144.9:50999/103
 #EXTINF:-1 group-title="Эротика" tvg-id="kino18plusint-tviksel" audio-track="rus", Кино 18+
 https://autopilot.catcast.tv/content/40381/index.m3u8

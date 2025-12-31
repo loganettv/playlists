@@ -33,6 +33,8 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
+http://tv.ttk.mx:9113
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия HD 
@@ -48,7 +50,7 @@ http://95.66.188.74/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ HD 
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера HD 
-http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+https://vod.splay.uz/live_splay/original/Kinopremera/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание
 http://195.158.223.132:8008/Kinosvidanie
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание HD 
@@ -79,12 +81,14 @@ http://178.134.1.158:8081/mosfilm/index.m3u8
 http://5.8.11.96:8099/mosfilmhd/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино 
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
-#EXTINF:-1 group-title="Кино" audio-track="rus", Мужское киноHD 
+#EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино HD
 http://95.66.188.74/MuzhskoeKinoHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино
 http://95.66.188.74/NasheNovoeKino/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино HD 
 https://vod.splay.uz/live_splay/original/Nashe_novoe_kino/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наш кинопоказ
+http://cdn.voka.tv/live/285-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", НСТ
 http://195.9.195.3:8080/hls/217855.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", НТВ-Хит
@@ -135,24 +139,60 @@ https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
 https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
 #EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
 http://188.225.31.197/bpk-tv/000000006/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Хит
+http://hls127.freeott.top:8080/XitHD/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1 HD
+http://188.225.31.197/bpk-tv/000000710/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2 HD 
 http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit
 http://91.207.115.228:5000/c57
+#EXTINF:-1 group-title="Кино" audio-track="rus", BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/mono.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Cinema HD 
 http://vod.splay.uz/live_splay/original/CinemaHD/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Asia
+http://hls127.freeott.top:8080/Clarity4K_Asia/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Game Film
+http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Netflix
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k World Music
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Боевик
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Драмы
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k КиноФраншизы
+http://hls127.freeott.top:8080/Clarity4K_Kinofranshiza/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4K Приключения
+http://hls127.freeott.top:8080/Clarity4K_Priklucheniya/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Русский сериал
+http://hls127.freeott.top:8080/Clarity4K_Serial/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Семейный
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Ужасы
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Фантастика
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Clarity4k Фэнтези
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Comedy Central
 http://188.225.31.197/bpk-tv/000000452/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FAN HD 
 http://195.9.195.3:8080/hls/157239.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FilmUADrama HD
+http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FlixSnip
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FX
@@ -187,6 +227,10 @@ http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
 http://188.225.31.197/bpk-tv/000003910/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action HD 
 https://flussonic.salomtv.uz/vijuTV1000action/video.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 romantica HD
+http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 новелла HD
+http://188.208.197.173:8888/viju-novella/video.m3u8?token=loganet
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Comedy
@@ -197,3 +241,5 @@ http://188.225.31.197/bpk-tv/000000869/tve/index.m3u8
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Premiere HD 
 https://stream2.somon.tv/vippremiera/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Serial HD
+http://188.208.197.173:8888/vijuserial/video.m3u8?token=loganet
