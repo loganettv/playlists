@@ -33,7 +33,7 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ HD
 http://tv.ttk.mx:9113
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
@@ -100,7 +100,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Ретро
 https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Родное кино
-http://185.161.224.211/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+http://195.158.223.132:8008/Rodnoe_Kino
 #EXTINF:-1 group-title="Кино" audio-track="rus", Русский бестселлер
 http://195.158.223.132:8008/Russkiy_Bestseller
 #EXTINF:-1 group-title="Кино" audio-track="rus", Русский детектив

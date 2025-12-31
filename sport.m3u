@@ -81,8 +81,6 @@ https://176.116.105.82/NovaSport5_HD/index.m3u8
 https://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Okko Спорт. Прайм HD 
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 1
-http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 1 HD 
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 2 HD 

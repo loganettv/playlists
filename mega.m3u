@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://iptvx.one/EPG https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4epg.xml https://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/tv4ru.xml"
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Общие", loganettv mega
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
@@ -154,7 +154,7 @@ http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus" , Кино ТВ
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus" , Кино ТВ
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus" , Кино ТВ HD
 http://tv.ttk.mx:9113
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus" , Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
@@ -221,7 +221,7 @@ http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" , Ретро
 https://vod.splay.uz/live_splay/original/Retro/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus" , Родное кино
-http://185.161.224.211/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+http://195.158.223.132:8008/Rodnoe_Kino
 #EXTINF:-1 group-title="Кино" audio-track="rus" , Русский бестселлер
 http://195.158.223.132:8008/Russkiy_Bestseller
 #EXTINF:-1 group-title="Кино" audio-track="rus" , Русский детектив
@@ -378,7 +378,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="karusel" audio-track="rus" , Карусель
 http://89.232.68.194:8080/karusel/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="karusel" audio-track="rus" , Лева
+#EXTINF:-1 group-title="Детям" audio-track="rus" , Лева
 http://cdn.voka.tv/live/2424-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus" , Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
@@ -449,7 +449,7 @@ http://5.188.221.43:8080/play/2x2
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" ,  2x2 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Развлечение" tvg-id="kaleydoskop-tv" audio-track="rus" , Вопросы и Ответы
+#EXTINF:-1 group-title="Развлечение" audio-track="rus" , Вопросы и Ответы
 http://188.225.31.197/bpk-tv/000000195/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="kaleydoskop-tv" audio-track="rus" , Глазами Туриста HD
 http://188.225.31.197/bpk-tv/000001414/tve/index.m3u8
@@ -617,7 +617,7 @@ http://95.66.188.74/Zoo_TV/mono.m3u8
 http://185.46.16.239:8000/Istoriya
 #EXTINF:-1 group-title="Знания" tvg-id="insight-tv-hd" audio-track="rus" , Инсайт ТВ
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Знания" tvg-id="insight-tv-hd" audio-track="rus" , Ключ
+#EXTINF:-1 group-title="Знания" audio-track="rus" , Ключ
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="kongresstv" audio-track="rus" , Конгресс ТВ
 https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
@@ -699,8 +699,6 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus" , viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="Знания" audio-track="rus" , viju History
-http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus" , viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
 #EXTINF:-1 group-title="Новости" tvg-id="360-news" audio-track="rus" , 360° Новости
@@ -775,7 +773,7 @@ http://95.66.188.74/Bober/mono.m3u8
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="drive" audio-track="rus" , Драйв
 http://185.164.82.18:9009/aDxLhVQm_Drive
-#EXTINF:-1 group-title="Хобби" tvg-id="drive" audio-track="rus" , Еда Премиум Международный
+#EXTINF:-1 group-title="Хобби" audio-track="rus" , Еда Премиум Международный
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zhivi" audio-track="rus" , Живи!
 http://158.101.222.193:88/georgia_play.php?id=jivi
@@ -789,7 +787,7 @@ http://85.88.175.48:2020/udp/239.4.10.117:2020
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus" , Мужской 
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="Хобби" audio-track="rus" , Наша темаHD 
+#EXTINF:-1 group-title="Хобби" audio-track="rus" , Наша тема HD 
 http://live-3.otcnet.ru/nashatema/index.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus" , Оружие
 http://158.101.222.193:88/georgia_play.php?id=oruzhie
@@ -815,7 +813,7 @@ http://live-3.otcnet.ru/wfcrus/index.m3u8
 http://195.158.223.132:8000/Soyuz
 #EXTINF:-1 group-title="Религия" audio-track="rus" , Союз HD 
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 group-title="Религия" audio-track="rus" , МузСоюзHD 
+#EXTINF:-1 group-title="Религия" audio-track="rus" , МузСоюз HD 
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 group-title="Религия" audio-track="rus" , Надежда 
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
@@ -917,8 +915,6 @@ https://176.116.105.82/NovaSport5_HD/index.m3u8
 https://176.116.105.82/NovaSport6_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus" , Okko Спорт. Прайм HD 
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus" , Premier Sport 1
-http://cdn4.skygo.mn/live/disk1/SPSPrime/HLS-FTA/SPSPrime.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus" , Premier Sport 1 HD 
 https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт" audio-track="rus" , Premier Sport 2 HD 
