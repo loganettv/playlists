@@ -31,12 +31,8 @@ http://194.143.148.28:8080/MatchArena/mpegts
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер
 http://89.232.68.194:8080/matchpremier/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD
-http://185.58.205.1:4022/udp/224.0.90.123:1234
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 1
-http://185.58.205.1:4022/udp/224.0.91.65:1234
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 2
-http://185.58.205.1:4022/udp/224.0.91.66:1234
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD 
+http://vod1.stb.tvime.ru/MATCh_Premer_HD/video.m3u8?token=billing_6WJDKE9cG25U
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 3
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Баскет
@@ -61,22 +57,18 @@ http://b63fa420.ucomist.net/iptv/7FH9M9TCK4LU2H/141/index.m3u8
 http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 2
 http://cdntv.online/high/47eurvkpm6/39.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 2 HD
-https://flussonic.salomtv.uz/eurosport_2/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Extreme
 http://45.11.139.43:8555/extsport/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Fox Sports 501 HD
 https://7pal.short.gy/fox501au
 #EXTINF:-1 group-title="Спорт" audio-track="rus", KHL
-http://185.58.205.1:4022/udp/224.0.91.48:1234
+http://cdn.voka.tv/live/100-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", KHL HD
 http://178.163.5.6:4022/udp/234.0.0.14:2000
 #EXTINF:-1 group-title="Спорт" audio-track="rus", KHL Prime
 http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
 #EXTINF:-1 group-title="Спорт" audio-track="rus", MMA-TV
 http://cdn.voka.tv/live/2100-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", MMA-TV HD
-https://vod.splay.uz/live_splay/original/MMA-TV.comHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Nova Sport 2 HD
 https://176.116.105.82/NovaSport2_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Nova Sport 3
@@ -87,24 +79,12 @@ http://176.116.105.82/NovaSport4_HD/index.m3u8
 https://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Nova Sport 6
 https://176.116.105.82/NovaSport6_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 1
-https://7pal.short.gy/prsport1
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 1 HD
 https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 2
-https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Premier Sport 2 HD
 https://7pal.short.gy/prsport2
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Russian Extreme
 http://85.208.223.249:8888/play/a004
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 2
-http://2.57.217.85:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports 1 nz
 https://7pal.short.gy/skyspt1nz
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports Football
@@ -127,5 +107,5 @@ https://7pal.short.gy/tntspts4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport
 http://45.145.32.13:20440/viasat_sport/index.m3u8?token=test
-#EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport HD
-https://vod.splay.uz/live_splay/original/Viasat_Sport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport HD 
+http://vod1.stb.tvime.ru/viju_Sport_HD/video.m3u8?token=billing_6WJDKE9cG25U

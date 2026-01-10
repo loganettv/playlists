@@ -13,8 +13,6 @@ http://158.101.222.193:88/georgia_play.php?id=365day
 http://95.47.156.60:8000/play/a011/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="bolshaya-azia" audio-track="rus", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Знания" tvg-id="bolshaya-azia" audio-track="rus", Большая Азия HD
-http://85.88.175.48:2020/udp/239.4.10.6:2020
 #EXTINF:-1 group-title="Знания" tvg-id="doktor" audio-track="rus", Доктор
 http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="zhivaya-planeta" audio-track="rus", Живая планета
@@ -24,13 +22,11 @@ http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="zvezda-plus" audio-track="rus", Звезда Плюс HD
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="zdorovoe-tv" audio-track="rus", Здоровое ТВ
-http://95.66.188.74/ZdorovoeTV/index.m3u8
+http://vod1.stb.tvime.ru/Zdorovoe_TV/video.m3u8?token=billing_6WJDKE9cG25U
 #EXTINF:-1 group-title="Знания" tvg-id="zootv" audio-track="rus", Зоо ТВ
-http://31.148.48.15/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
+http/Zoo_TV/tracks-v1a1/mono.m3u8?token=default
 #EXTINF:-1 group-title="Знания" tvg-id="istoria" audio-track="rus", История
 http://185.46.16.239:8000/Istoriya
-#EXTINF:-1 group-title="Знания" tvg-id="istoria" audio-track="rus", История HD
-https://vod.splay.uz/live_splay/original/History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="insight-tv-hd" audio-track="rus", Инсайт ТВ
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="kluch" audio-track="rus", Ключ
@@ -55,8 +51,8 @@ http://178.163.121.127:4022/udp/234.0.0.228:2000
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Знания" audio-track="rus", Наука
 http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="Знания" audio-track="rus", Наука HD
-http://185.58.205.1:4022/udp/224.0.90.221:1234
+#EXTINF:-1 group-title="Знания" audio-track="rus", Наука HD 
+http://vod1.stb.tvime.ru/naukahd/video.m3u8?token=billing_6WJDKE9cG25U
 #EXTINF:-1 group-title="Знания" audio-track="rus", Неизвестная Россия
 http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Неизвестная Россия HD
@@ -76,15 +72,11 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Просвещение
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Тайны Галактики
-http://195.26.83.96:7007/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Знания" audio-track="rus", Точка.РФ
-http://185.58.205.1:4022/udp/224.0.91.200:1234
+http://178.163.5.6:4022/udp/234.0.0.111:2000
 #EXTINF:-1 group-title="Знания" audio-track="rus", Точка.РФ HD
 http://45.145.32.13:20440/hdl/index.m3u8?token=test
 #EXTINF:-1 group-title="Знания" audio-track="rus", Animal Planet
 http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
-#EXTINF:-1 group-title="Знания" audio-track="rus", Animal Planet HD
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Big Planet
 http://188.225.31.197/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Curiosity Stream
@@ -99,8 +91,6 @@ http://194.143.148.28:8080/NanoTV/index.m3u8
 http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", National Geographic Wild
 http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:-1 group-title="Знания" audio-track="rus", National Geographic Wild HD
-https://vod.splay.uz/live_splay/original/Nat_Geo_Wild_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Luxury
 http://s1.tv-nano.com/Luxury_rec/video.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Luxury HD
@@ -129,14 +119,10 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", viju History
 http://89.232.68.194:8080/HISTORY/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Знания" audio-track="rus", viju History HD
-https://vod.splay.uz/live_splay/original/Viasat_History/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", viju Nature
 http://158.101.222.193:88/georgia_play.php?id=viasatnat
 #EXTINF:-1 group-title="Знания" audio-track="rus", viju Explore
 http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="Знания" audio-track="rus", viju Explore HD
-https://vod.splay.uz/live_splay/original/Viasat_Explorer/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" audio-track="rus", 2x2
 http://5.188.221.43:8080/play/2x2
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (Архив)
@@ -204,8 +190,6 @@ http://178.163.121.127:4022/udp/234.0.0.246:2000
 http://176.107.219.20:9000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", СТС
 http://31.131.141.195:8000/play/2030/index.m3u8
-#EXTINF:-1 group-title="Развлечение" audio-track="rus", СТС HD
-http://193.25.8.59:8000/ESPN
 #EXTINF:-1 group-title="Развлечение" tvg-id="sts" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
@@ -244,8 +228,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 http://hls127.freeott.top:8080/Teatr/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", ТНТ
 http://185.46.16.239:8000/TNT
-#EXTINF:-1 group-title="Развлечение" audio-track="rus", ТНТ HD
-http://185.58.205.1:4022/udp/224.0.90.224:1234
 #EXTINF:-1 group-title="Развлечение" tvg-id="tnt" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
@@ -259,7 +241,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Че
-http://95.66.188.74/Che/mono.m3u8
+http://31148.rafail1982.uz/Che/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="che" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
@@ -278,14 +260,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
 http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Discovery HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
-#EXTINF:-1 group-title="Развлечение" audio-track="rus", Epic
-http://193.25.8.59:8000/dtx
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Gagsnetwork
 http://hls127.freeott.top:8080/Gagsnetwork/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", RTG
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="Развлечение" audio-track="rus", RTG HD
-http://185.58.205.1:4022/udp/224.0.90.244:1234
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Travel+Adventure
 http://cdn.voka.tv/live/964-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Travel+Adventure HD
@@ -295,13 +273,11 @@ http://178.163.121.127:4022/udp/234.0.0.227:2000
 #EXTINF:-1 group-title="Хобби" tvg-id="avto-plus" audio-track="rus", Авто Плюс
 http://158.101.222.193:88/georgia_play.php?id=autoplus
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior" audio-track="rus", Бобер
-http://95.66.188.74/Bober/mono.m3u8
+http://hls127.freeott.top:8080/Bober/video.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="dikiy" audio-track="rus", Дикий
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="drive" audio-track="rus", Драйв
 http://185.164.82.18:9009/aDxLhVQm_Drive
-#EXTINF:-1 group-title="Хобби" tvg-id="drive" audio-track="rus", Драйв HD
-http://178.163.2.228:4022/udp/234.0.0.11:2000
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Еда Премиум Международный
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="zhivi" audio-track="rus", Живи!
@@ -329,11 +305,11 @@ https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Хобби", Сити Эдем — Рецепты Гурмана
 https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Телекафе
-http://178.163.2.228:4022/udp/234.0.0.249:2000
+http://37.193.89.200:81/udp/239.1.2.18:1234
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Усадьба
-http://95.66.188.74/Usadba/mono.m3u8
+http://93.170.254.17/Usadba/index.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV
-http://185.58.205.1:4022/udp/224.0.90.207:1234
+http://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV HD
 http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", World Fashion Channel
