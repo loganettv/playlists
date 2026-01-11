@@ -75,3 +75,5 @@ http://158.101.222.193:88/georgia_play.php?id=davinci
 http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", JimJam
 http://158.160.149.81:8080/269/index.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", Nickelodeon
+https://vod.splay.uz/live_splay/original/Nickelodeon/tracks-v1a1/mono.m3u8
