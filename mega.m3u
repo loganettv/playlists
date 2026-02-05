@@ -140,8 +140,6 @@ http://109.75.59.241:8017/Domkino/index.m3u8
 http://188.225.31.197/bpk-tv/000003392/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="dorama" audio-track="rus" , Дорама HD 
 http://176.96.241.40/Dorama/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus" , Еврокино
-http://178.163.121.127:4022/udp/234.0.0.176:2000
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" audio-track="rus" , Иллюзион+
 http://188.225.31.197/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" audio-track="rus" , Индийское кино
