@@ -4,37 +4,22 @@ https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
 #EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music
-https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music HD
-http://91.247.68.229:8000/play/eee/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="zhar-ptica" audio-track="rus", Жар Птица
-http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music HD 
+http://iptv46.mcx-ix.ru:8077/1hd/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="kuraj" audio-track="rus", Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ HD
-http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", ММТВ HD
-http://95.47.156.60:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ
-http://178.163.121.127:4022/udp/234.0.0.96:2000
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ HD
-http://178.124.179.122:8088/MuzTV/index.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ (Архив)
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ HD 
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", О!2
 http://217.11.177.56/streams/media/o2tv_720x576/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", О!2 HD
+#EXTINF:-1 group-title="Музыка" audio-track="rus", О!2 HD 
 http://77.232.131.211/O2TV/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Первый музыкальный
-http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="Музыка", Сити Эдем — Classic Music
-https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Музыка", Сити Эдем — Meditation Music
 https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Музыка", Сити Эдем — БирмаПлей
@@ -44,48 +29,36 @@ https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music
-http://tntm.mediacdn.ru/cdn/tntmusic/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music HD
-http://tntm.mediacdn.ru/cdn/tntmusic/playlist_hdhigh.m3u8
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music HD 
+http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
 http://5.188.221.43:8080/play/bridge-tv
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
-http://178.163.121.127:4022/udp/234.0.0.223:2000
+http://178.163.2.151:4022/udp/234.0.0.223:2000
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Шлягер
-http://178.212.71.253:8000/play/142/index.m3u8
+http://178.163.2.151:4022/udp/234.0.0.179:2000
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV
 https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Dance
-http://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Dance HD
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Dance HD 
 https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Lounge
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Rap
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Kiss Kiss
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Kiss Kiss HD
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Live Music Channel
-http://cdn.voka.tv/live/6028-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live
-http://cdn.voka.tv/live/871-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Radio M2O
-http://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV
-http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD
-http://dmitry-tv.ddns.net/hls/CH_RUTVHD.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Zerouno TV Music
-https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD 
+http://62.89.220.15/streams/media/ru-tv_720x576/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV
+http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD 
+http://62.89.220.15/streams/media/ru-tv_720x576/index.m3u8
