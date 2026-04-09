@@ -129,12 +129,6 @@ http://188.225.31.197/bpk-tv/000000039/tve/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", Музыка Первого
 http://176.96.241.40/MuzikaPervogo/index.m3u8
-#EXTINF:-1 group-title="Общие", loganettv strawberry
-https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
-https://t.me/loganettv_original
-#EXTINF:-1 group-title="Общие" audio-track="rus", Penthouse Gold HD
-http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black
 http://37.46.49.14:18010/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv" audio-track="rus", .Red
