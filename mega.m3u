@@ -1190,7 +1190,7 @@ http://78.130.250.2:8023/play/a06f/index.m3u8
 http://77.46.130.252:99/dorcel
 #EXTINF:-1 group-title="Эротика" audio-track="rus" , Dorcel TV HD
 http://78.130.250.2:8023/play/a069/index.m3u8
-#EXTINF:-1 group-title="Общие" audio-track="rus" , Penthouse Gold HD
+#EXTINF:-1 group-title="Эротика" audio-track="rus" , Penthouse Gold HD
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 group-title="Эротика" audio-track="rus" , Penthouse Reality TV HD
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
