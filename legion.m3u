@@ -1,0 +1,43 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Общие", loganettv legion
+https://t.me/loganettv_support
+#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
+https://t.me/loganettv_original
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" audio-track="rus", Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" audio-track="rus", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" audio-track="rus", Пятый канал
+http://194.106.112.211:9981/stream/channelid/1875523149?profile=pass
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Россия Культура
+http://185.46.16.239:8000/Rossiya_K
+#EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
+#EXTINF:-1 group-title="Детям" tvg-id="karusel" audio-track="rus", Карусель
+https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", ОТР
+http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", ТВ Центр
+http://5.188.221.43:8080/play/tv-centr
+#EXTINF:-1 group-title="Общие" audio-track="rus", Рен ТВ
+http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="Религия" audio-track="rus", Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", СТС
+http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Развлечение" tvg-id="domashny" audio-track="rus", Домашний
+http://176.96.241.40/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", ТВ3
+http://31.210.208.171:8080/tv3/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" audio-track="rus", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", Мир
+http://185.46.16.239:8000/Mir
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ
+https://streaming.televizor-24-tochka.ru/live/618.m3u8

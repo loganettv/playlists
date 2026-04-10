@@ -1098,7 +1098,7 @@ http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus" , Матур ТВ HD
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1 group-title="Общие" audio-track="rus" , Муз-ТВ
+#EXTINF:-1 group-title="Музыка" audio-track="rus" , Муз-ТВ
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Муз-ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
@@ -1106,7 +1106,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" , Муз-ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" audio-track="rus" , Музыка Первого
+#EXTINF:-1 group-title="Музыка" audio-track="rus" , Музыка Первого
 http://176.96.241.40/MuzikaPervogo/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus" , Музыка Live
 http://46.53.208.4/live/2117-req_5k_v5.m3u8
@@ -1138,9 +1138,9 @@ http://31.210.208.171:8080/ru_tv/index.m3u8?token=+W2MSER
 http://37.46.49.14:18010/play/a030/index.m3u8
 #EXTINF:-1 group-title="Релакс" audio-track="rus" , BetterLife Nature
 http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 group-title="Общие" , loganettv strawberry
+#EXTINF:-1 group-title="Эротика" , loganettv strawberry
 https://t.me/loganettv_support
-#EXTINF:-1 group-title="Общие" , telegram - t.me/loganettv_original
+#EXTINF:-1 group-title="Эротика" , telegram - t.me/loganettv_original
 https://t.me/loganettv_original
 #EXTINF:-1 group-title="Эротика" , Adult IPTV Big Ass
 http://cdn.adultiptv.net/bigass.m3u8
@@ -1190,7 +1190,7 @@ http://78.130.250.2:8023/play/a06f/index.m3u8
 http://77.46.130.252:99/dorcel
 #EXTINF:-1 group-title="Эротика" audio-track="rus" , Dorcel TV HD
 http://78.130.250.2:8023/play/a069/index.m3u8
-#EXTINF:-1 group-title="Общие" audio-track="rus" , Penthouse Gold HD
+#EXTINF:-1 group-title="Эротика" audio-track="rus" , Penthouse Gold HD
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 group-title="Эротика" audio-track="rus" , Penthouse Reality TV HD
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
