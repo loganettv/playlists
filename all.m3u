@@ -3,6 +3,10 @@
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
+#EXTINF:-1 group-title="Общие", loganettv all
+https://t.me/loganettv_support
+#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
+https://t.me/loganettv_original
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1  (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -81,8 +85,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="mir-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
-#EXTINF:-1 group-title="Общие" tvg-id="tro" audio-track="rus", БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", Беларусь РТР
 http://46.53.208.4/live/5-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", БСТ
@@ -111,6 +113,8 @@ http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 http://46.53.208.4/live/849.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", Первый крымский
 http://80.245.112.27:18787/
+#EXTINF:-1 group-title="Общие" tvg-id="tro" audio-track="rus", Союзный
+http://46.53.208.4/live/3106-req_5k_v5.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", СТВ Беларусь
 http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", ТНВ Планета
