@@ -31,6 +31,10 @@ http://46.53.208.4:80/live/2100-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Q Sport Arena HD
 http://77.245.98.18:8000/play/a00d
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Q Sport League
+http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Q Sport League HD
+http://77.245.98.18:8000/play/a00c
 #EXTINF:-1 group-title="Спорт" audio-track="rus", QazSport
 http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", QazSport HD
@@ -63,14 +67,16 @@ https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/chunklist_w14
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv" audio-track="rus", Бокс ТВ HD
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Спорт" tvg-id="voleybol" audio-track="rus", Волейбол
+http://cdn.kubteltv.workers.dev/?ID=444
+#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" audio-track="rus", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" audio-track="rus", Матч!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" audio-track="rus", Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Арена
@@ -93,9 +99,13 @@ http://188.191.160.238:7780/udp/239.195.3.17:1234
 http://timeshift.arpinet.am/110/mpegts
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Мир баскетбола
 http://46.53.208.4/live/3434-req_5k_v5.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Спорт ТВ
-http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Мяч HD
+http://cdn.kubteltv.workers.dev/?ID=404
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Баскет
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="Спорт" audio-track="rus", ТВ Спорт
+http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Хоккей ТВ HD
+http://cdn.kubteltv.workers.dev/?ID=405

@@ -17,8 +17,10 @@ https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", RT English HD
 https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Новости" tvg-id="izvestia" audio-track="rus", Известия
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="belarus24" audio-track="rus", Беларусь 24
+http://radio.tvs.by:8080/Belarus24/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="belarus24" audio-track="rus", Беларусь 24 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="izvestia" audio-track="rus", Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="krik-tv" audio-track="rus", Крик ТВ
@@ -44,14 +46,14 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b516000
 http://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", РБК HD
 http://31.210.208.171:8080/rbk/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24
+https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rossia-24-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
-#EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24
-https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24 HD
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", Соловьев Live

@@ -35,16 +35,16 @@ http://195.189.60.253/118/index.m3u8
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", FAN HD
 http://cdn.kubteltv.workers.dev/?ID=354
-#EXTINF:-1 group-title="Кино" audio-track="rus", FX
-http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", FX Life
-http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FilmBox
 http://37.46.49.14:18010/play/a01x/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FilmUADrama
 http://188.225.31.197/bpk-tv/000003028/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FlixSnip
 http://188.225.31.197/bpk-tv/000004466/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX
+http://188.225.31.197/bpk-tv/000004472/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX Life
+http://188.225.31.197/bpk-tv/000004471/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood
 http://188.225.31.197/bpk-tv/000000031/tve/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Kino24
@@ -75,16 +75,16 @@ http://46.53.208.4/live/1123.m3u8
 http://ukr2.ukrainske.tv/493/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000
 http://46.53.208.4/live/5107.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 HD
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action HD
-https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action
 http://46.53.208.4/live/5106.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 romantica HD
-http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 action HD
+https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 HD
+https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 romantica
 http://46.53.208.4/live/3111.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 romantica HD
+http://188.208.197.173:8888/vijuromantica/video.m3u8?token=loganet
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 новелла
 http://46.53.208.4/live/545.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 новелла HD
@@ -131,14 +131,14 @@ http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ HD
 http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" tvg-id="kinosezon" audio-track="rus", КиноСезон HD
-http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия
 http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия HD
 http://cdn.kubteltv.workers.dev/?ID=328
 #EXTINF:-1 group-title="Кино" tvg-id="kinosat" audio-track="rus", Киноман
 http://188.225.31.197/bpk-tv/000003871/tve/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", КиноМеню HD
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks" audio-track="rus", Киномикс
 http://158.101.222.193:88/georgia_play.php?id=kinomiks
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ
@@ -151,6 +151,8 @@ http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinosezon" audio-track="rus", КиноСезон HD
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya" audio-track="rus", Киносемья
 http://158.101.222.193:88/georgia_play.php?id=kinosemya
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria" audio-track="rus", Киносерия
@@ -177,16 +179,16 @@ http://46.53.208.4/live/1124-req_offset_28000000-req_window_0-1k_v5.m3u8
 http://cdn.kubteltv.workers.dev/?ID=353
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино
 http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наш кинопоказ
+http://46.53.208.4/live/285.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино
+http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", НСТ
 http://31.210.208.171:8080/nst/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", НТВ-Сериал
 http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", НТВ-Хит
 http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Наш кинопоказ
-http://46.53.208.4/live/285.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Наше новое кино
-http://31.210.208.171:8080/nashe_novoe_kino/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", Патриот
 http://catchup.videoline.ru/asvtv/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Ретро
@@ -203,10 +205,10 @@ http://185.46.16.239:8000/Russkiy_Illyuzion
 http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" audio-track="rus", Сапфир
 http://188.225.31.197/bpk-tv/000008135/tve/index.m3u8
-#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
-https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАзия
 https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноДетектив
 https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноДок
