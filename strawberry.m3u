@@ -56,9 +56,9 @@ http://77.46.130.252:99/dorcel
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Dorcel TV HD
 http://81.15.109.89:8001/play/DorcelTV
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Hustler TV
-http://81.15.109.89:8001/play/Hustler
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Hustler TV HD
 http://85.14.32.26:8800/udp/239.100.10.58:5000
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Hustler TV HD
+http://81.15.109.89:8001/play/Hustler
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Penthouse Reality TV
 http://185.98.209.11:81/penthouse2/index.m3u8?token=test
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Penthouse Reality TV HD
@@ -69,5 +69,3 @@ http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
 http://77.46.130.252:99/private
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Private HD
 http://81.15.109.89:8001/play/Private
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Redlight HD
-http://81.15.109.89:8001/play/Redlight

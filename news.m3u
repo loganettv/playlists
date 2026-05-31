@@ -4,7 +4,7 @@ https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
 #EXTINF:-1 group-title="Новости" tvg-id="360-news" audio-track="rus", 360° Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="360-news" audio-track="rus", 360° Новости HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", CNN
@@ -18,11 +18,11 @@ http://46.32.176.50/euronews/index.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", RT English
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", RT English HD
-https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
+http://185.78.112.47:8077/rt_hd/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="belarus24" audio-track="rus", Беларусь 24
 http://radio.tvs.by:8080/Belarus24/index.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="belarus24" audio-track="rus", Беларусь 24 HD
-https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
+https://edge59.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24/chunklist_w148744111_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="izvestia" audio-track="rus", Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="izvestia" audio-track="rus", Известия HD
@@ -35,21 +35,21 @@ http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", Мир 24
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+https://uiptv.do.am/1ufc/112234126/playlist.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", Мир 24 HD
-http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", Первый информационный
-https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
+https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b1010000_sleng.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", Первый информационный HD
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", РБК
 http://online-video.rbc.ru/spb/rbctv_spb.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", РБК HD
-http://217.174.229.136:8000/play/a028
+http://89.218.32.179:18000/play/a02c
 #EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24
 https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd00a04
 #EXTINF:-1 group-title="Новости" audio-track="rus", Россия 24 HD
-http://77.232.131.211/Rossiya24/index.m3u8
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
@@ -58,5 +58,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", Соловьев Live
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новости" audio-track="rus", Соловьев Live HD
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
