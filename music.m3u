@@ -4,15 +4,27 @@ https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
 #EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music
-http://176.118.197.101/1HD/index.m3u8
+http://176.118.197.101/1HD/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music HD
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
 http://46.32.176.50/bridgetv/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
 http://46.32.176.50/rusong/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe
+http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe HD
+http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
 http://109.248.236.51/bridge_hits/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Русский хит
+http://37.186.70.39:40/play/93/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", CHD RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", CHD Rock HD
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV HD
+http://46.151.151.250:9201
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
@@ -23,16 +35,22 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Музыка" audio-track="rus", MCM Top
 http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка" audio-track="rus", MTV Classic
+http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo HD
+http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live HD
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV
 https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Trace Urban
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", kronehit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="zhara" audio-track="rus", Жара
@@ -40,11 +58,13 @@ https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="kuraj" audio-track="rus", Курай-ТВ
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ
-http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ HD
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ
 http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ HD
+https://stream8.cinerama.uz/1200/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
@@ -53,7 +73,11 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Live
 http://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Live HD
+https://stream8.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Первого
+https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Первого HD
 https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", О!2
 http://77.232.131.211/O2TV/index.m3u8
@@ -67,7 +91,5 @@ https://cityeden.catcast.tv/content/46421/index.m3u8?password=loganet
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music
 http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", ТНТ Music HD
-http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8

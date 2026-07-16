@@ -3,20 +3,18 @@
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
-#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black HD
-http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black
+http://46.32.176.50/sonyturbo/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-tv" audio-track="rus", .Red
 http://158.101.222.193:88/georgia_play.php?id=red
 #EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi
 http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi HD
-http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1
 http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 1 HD
+http://stream.mcquack.net/117/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2
 http://46.32.176.50/amedia2/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Amedia 2 HD
-http://tv.ttk.mx:9156
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit
 http://46.32.176.50/amediahit/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Hit HD
@@ -24,27 +22,33 @@ http://194.152.35.17/amedia-hit/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Premium
 http://46.32.176.50/AmediaPremium/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Amedia Premium HD
-http://fs.uplink.kz/amedia_premium_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood
 https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Bolt HD
+http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Cinema
 http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Cinema HD
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Epic Drama
 http://195.189.60.253/118/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Epic Drama HD
 https://shift03.isp.bg/EpicDrama/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FAN
 http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Кино" audio-track="rus", FAN HD
-http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX
+http://37.186.70.39:40/play/61/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX Life HD
+http://stream.mcquack.net/129/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", FlixSnip
 http://45.145.32.13:20440/flixsnip/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood
 http://stream1.cinerama.uz/1443/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Hollywood HD
-http://46.32.176.50/HollywoodHD/index.m3u8
+http://45.145.32.13:20440/hollywood_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" audio-track="rus", Plan_B
 http://46.32.176.50/paramountchannel/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
@@ -61,26 +65,28 @@ http://fs.uplink.kz/viju_tv1000/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 русское
 http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Comedy
-http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 русское HD
+https://stream1.cinerama.uz/1059/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Comedy HD
-http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+https://stream2.somon.tv/vipcomedy/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Megahit
-http://194.32.242.245/vipmegahit/index.m3u8
+http://185.46.16.239:8000/VIP_Megahit
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Megahit HD
-http://46.32.176.50/VIPMegahitHD/index.m3u8
+http://194.32.242.245/vipmegahit/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Premiere
-http://46.32.176.50/VIPPremiereHD/index.m3u8
+http://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Premiere HD
-http://185.46.16.239:8000/VIP_Premiere
-#EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Serial
-http://46.32.176.50/ViasatSportHD/index.m3u8
+http://46.32.176.50/VIPPremiereHD/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", viju+ Serial HD
 http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Видеокассета HD
+https://lbgo.bozztv.com/ssh101/ssh101/livebest90e/chunks.m3u8?lb_backend_hint=7
 #EXTINF:-1 group-title="Кино" tvg-id="domkino" audio-track="rus", Дом кино
 http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="domkino" audio-track="rus", Дом кино HD
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум
-https://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" audio-track="rus", Дом кино Премиум HD
 http://45.145.32.13:20440/dom_kino_premium_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" tvg-id="dorama" audio-track="rus", Дорама
@@ -89,52 +95,60 @@ http://stream1.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино
 http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="evrokino" audio-track="rus", Еврокино HD
+http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" audio-track="rus", Иллюзион+
 http://46.32.176.50/illuzion/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" audio-track="rus", Индийское кино
 http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" audio-track="rus", Индийское кино HD
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="zee-tv" audio-track="rus", Индия
 http://fs.uplink.kz/india/tracks-v1a1/mono.ts.m3u8?token=onlinetv
-#EXTINF:-1 group-title="Кино" tvg-id="kamedi" audio-track="rus", Камеди HD
-http://188.134.7.215:4022/udp/235.10.10.160:1234
 #EXTINF:-1 group-title="Кино" tvg-id="kineko" audio-track="rus", Кинеко
 http://178.134.1.158:8081/kineko/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kineko" audio-track="rus", Кинеко HD
-http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ
 http://185.46.16.239:8000/Kino_TV
 #EXTINF:-1 group-title="Кино" tvg-id="kino-tv" audio-track="rus", Кино ТВ HD
-http://176.118.197.101/KinoTvHD/playlist.m3u8
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Кино" audio-track="rus", КиноМеню HD
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия
 http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" audio-track="rus", Кинокомедия HD
+https://stream8.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosat" audio-track="rus", Киноман
 http://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinomiks" audio-track="rus", Киномикс
 http://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinomiks" audio-track="rus", Киномикс HD
+https://stream8.cinerama.uz/1233/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ
 http://176.118.197.101/Kinopokaz/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopokaz" audio-track="rus", Кинопоказ HD
-http://stream.mcquack.net/64/index.m3u8
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера
-http://37.186.70.39:40/play/69/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера HD
 https://stream1.cinerama.uz/1207/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" audio-track="rus", Кинопремьера HD
+https://fs.uplink.kz/kinopremiera_hd/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" audio-track="rus", Киносвидание HD
+http://stream.mcquack.net/171/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya" audio-track="rus", Киносемья
 http://46.32.176.50/kinosemya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinosemiya" audio-track="rus", Киносемья HD
-https://stream1.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+http://194.32.242.245/kinosemyahd/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria" audio-track="rus", Киносерия
 https://stream1.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoseria" audio-track="rus", Киносерия HD
 http://176.118.197.101/Kinoseria/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" audio-track="rus", Киноужас
 http://194.32.242.245/kinouzhas/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" audio-track="rus", Киноужас HD
-http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kinoxit" audio-track="rus", Кинохит
 http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit" audio-track="rus", Кинохит HD
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="klassika-kino" audio-track="rus", Классика кино
 https://serv25.vintera.tv/dai/k_kino_dai_scte-35/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia" audio-track="rus", Комедия
@@ -143,14 +157,16 @@ http://176.118.197.101/Komediya/mono.m3u8
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Любимое кино
 http://46.32.176.50/lubimoekino/index.m3u8
-#EXTINF:-1 group-title="Кино" audio-track="rus", Любимое кино HD
-http://stream.mcquack.net/456/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мир сериала
 http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Мир сериала HD
+http://45.145.32.13:20440/ctc_kids_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция
 http://fs.uplink.kz/mosfilm/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино" audio-track="rus", Мосфильм. Золотая коллекция HD
+http://stream.mcquack.net/369/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино
-http://37.186.70.39:40/play/71/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
 #EXTINF:-1 group-title="Кино" audio-track="rus", Мужское кино HD
 http://46.32.176.50/MujskoeKinoHD/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", НСТ
@@ -179,6 +195,8 @@ http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
 http://tv.ttk.mx:9085
 #EXTINF:-1 group-title="Кино" audio-track="rus", Сапфир
 http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Сапфир HD
+http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
 https://cityeden.catcast.tv/content/38398/index.m3u8?password=loganet
 #EXTINF:-1 group-title="Кино", Сити Эдем — КиноАзия
