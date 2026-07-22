@@ -45,14 +45,8 @@ http://cdn.adultiptv.net/teen.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Brazzers TV Europe
 http://45.145.32.13:20440/brazzers/index.m3u8?token=test
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Brazzers TV Europe HD
-http://193.239.187.102/BRAZZERS/index.m3u8
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Erox
-https://shift03.isp.bg/Eroxxx/index.m3u8
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Erox HD
-https://shift03.isp.bg/Erox/index.m3u8
-#EXTINF:-1 group-title="Эротика" audio-track="rus", PassionXXX
-http://94.156.59.233:8899/udp/239.10.2.180:30000
+#EXTINF:-1 group-title="Эротика" audio-track="rus", PassionXXX HD
+https://shift03.isp.bg/PassionXXX/index.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Penthouse Gold HD
 http://185.98.209.11:81/penthouse1/index.m3u8?token=test
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Penthouse Reality TV HD
