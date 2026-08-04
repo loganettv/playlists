@@ -10,19 +10,17 @@ http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
 http://stream.mcquack.net/318/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Classic
-http://stream.mcquack.net/272/index.m3u8
+http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe
+http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV
-https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV HD
 http://46.151.151.250:9201
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Lounge
-https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Rap
@@ -31,8 +29,6 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m
 http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Музыка" audio-track="rus", MCM Top
 http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
-#EXTINF:-1 group-title="Музыка" audio-track="rus", MTV Classic
-http://206.212.244.63/117/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo

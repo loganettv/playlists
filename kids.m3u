@@ -22,19 +22,19 @@ http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Nickelodeon
 https://stream1.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Nickelodeon HD
-https://stream1.cinerama.uz/1500/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", TiJi
 http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", ducktv
-https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", ducktv HD
-http://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
+https://stream1.cinerama.uz/1271/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детям" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки HD
 https://stream1.cinerama.uz/1270/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="detsky-mir" audio-track="rus", Детский мир
 https://stream1.cinerama.uz/1032/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="ginger-hd" audio-track="rus", Капитан Фантастика
+http://stream1.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="ginger-hd" audio-track="rus", Капитан Фантастика HD
 http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="karusel" audio-track="rus", Карусель
@@ -74,7 +74,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", СуперГерои
-http://185.46.16.239:8000/National_Geographic_HD
+http://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Тамыр
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Тооку HD

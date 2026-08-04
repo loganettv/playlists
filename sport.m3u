@@ -19,12 +19,8 @@ http://178.253.194.79:10013
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Astrakhan.RU Sport HD
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 1
-http://znty.dyndns.org:5010/hls/eurosport.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 1 HD
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 2 HD
-http://stream.mcquack.net/192/index.m3u8
+http://178.134.1.158:8081/eurosport/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Extreme
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Fast&FunBox HD
@@ -41,36 +37,20 @@ http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 http://213.91.179.28:8000/play/a048
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Okko Спорт. Прайм HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Russian Extreme
-http://85.208.223.249:8888/play/a004
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 1
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 1 HD
-https://stream1.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 2
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports+
 http://37.46.49.14:18010/play/a056/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports Golf HD
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports Golf
 https://xemzi.short.gy/2000009
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports Main Event HD
-https://xemzi.short.gy/2000001
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Udar
-http://stream.mcquack.net/279/index.m3u8
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Udar HD
-http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport
-http://109.70.186.82:9090/udp/239.185.1.8:1234
-#EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport HD
-http://stream.mcquack.net/333/index.m3u8
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
 #EXTINF:-1 group-title="Спорт" tvg-id="belarus5-inet" audio-track="rus", Беларусь 5 Интернет
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="belarus5-inet" audio-track="rus", Беларусь 5 Интернет HD
-http://stream.mcquack.net/33/index.m3u8
+http://radio.tvs.by:8088/BT5/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="box-tv" audio-track="rus", Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" audio-track="rus", Матч!
-http://31.131.141.195:8000/play/1030/index.m3u8
+http://tv.tuva.ru/machtv/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" audio-track="rus", Матч! HD
+http://45.145.32.13:20440/match_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
@@ -95,8 +75,6 @@ https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 http://stream.mcquack.net/193/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Страна
 http://185.46.16.239:8000/Match_Nash_Sport
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Страна HD
-http://stream.mcquack.net/143/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 1
 http://45.145.32.13:20440/match_football1/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 1 HD
@@ -104,7 +82,7 @@ http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 2
 http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 2 HD
-http://stream.mcquack.net/142/index.m3u8
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 3
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Футбол 3 HD
@@ -115,7 +93,7 @@ http://45.145.32.13:20440/mir_basketbola/index.m3u8?token=test
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Баскет
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Баскет HD
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт" audio-track="rus", ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
