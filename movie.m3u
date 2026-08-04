@@ -29,6 +29,8 @@ http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Bolt HD
+http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Cinema
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Epic Drama
@@ -213,3 +215,7 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
 http://178.134.1.158:8081/TVXXI/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Феникс Плюс Кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="Кино" audio-track="rus", Хит HD
+http://stream.mcquack.net/363/index.m3u8

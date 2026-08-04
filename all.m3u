@@ -11,6 +11,8 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", БСТ HD
 http://bsttv.bonus-tv.ru/cdn/hdbst/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", Беларусь РТР
+http://194.158.222.36:6105
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda" audio-track="rus", Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="zvezda" audio-track="rus", Звезда HD
@@ -46,6 +48,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", НТВ-Беларусь
+http://194.158.222.36:6106
 #EXTINF:-1 group-title="Общие" audio-track="rus", НТВ-Мир
 http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="ntk-kz", НТК
@@ -127,6 +131,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus", ТНВ Татарстан
 http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", ТСВ Приднестровье HD
+https://tsv.md/stream/hls/tsv-online/index.m3u8
 #EXTINF:-1 group-title="Общие" audio-track="rus" tvg-id="echotv", Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" audio-track="rus", .Black
@@ -155,6 +161,8 @@ http://45.145.32.13:20440/amedia_premium_hd/index.m3u8?token=test
 https://stream1.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Bolt HD
+http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Cinema
 http://194.152.35.17/cinema/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", Epic Drama
@@ -339,10 +347,16 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
 http://178.134.1.158:8081/TVXXI/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Феникс Плюс Кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1 group-title="Кино" audio-track="rus", Хит HD
+http://stream.mcquack.net/363/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Ani
 http://185.46.16.239:8000/Ani
 #EXTINF:-1 group-title="Детям" audio-track="rus", Baby Time
 http://109.248.236.51/baby_time/video.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", CHD TV HD
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Network
@@ -391,6 +405,8 @@ http://31.210.208.171:8080/mult_HD/index.m3u8?token=+W2MSER
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Мультимузыка
 http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Детям" audio-track="rus", О!
+http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детям" audio-track="rus", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Рыжий
@@ -424,6 +440,8 @@ http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Discovery HD
 http://5.188.159.128:8070/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Investigation Discovery HD
+http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", RTG HD
 http://pvr-spb-08.tlgx.ru:8987/CH_S08_RST_LEGTV_RTG/index.m3u8?clckid=55fcb46d
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", RTG Int.
@@ -478,6 +496,8 @@ http://176.118.197.101/Nostalgiya/mono.m3u8
 http://213.91.179.28:8000/play/a0ay
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Поехали!
 http://fs.uplink.kz/poehali/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Приключения HD
+http://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Продвижение
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Развлечение" audio-track="rus", Пятница!
@@ -592,6 +612,8 @@ http://s1.tv-nano.com/Nano_rec/video.m3u8
 https://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", National Geographic Wild HD
 http://stream1.cinerama.uz/1042/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", One Planet HD
+http://stream.mcquack.net/448/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", RTД
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", RTД HD
@@ -600,6 +622,8 @@ http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", The Explorers
 http://stream.mcquack.net/450/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Trace Sport Stars HD
+https://stream1.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Univer
 http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Univer HD
@@ -624,6 +648,8 @@ http://stitch.teletarget.ru/vintera/aquatv/index.m3u8
 https://stream1.cinerama.uz/1414/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="bolshaya-azia" audio-track="rus", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="vkus" audio-track="rus", Вкус
+http://178.134.1.158:8081/vkus/index.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="doktor" audio-track="rus", Доктор
 https://stream1.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" tvg-id="domashnie-zhivotnye" audio-track="rus", Домашние животные
@@ -761,10 +787,16 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_3.m3u8
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 group-title="Новости" audio-track="rus", ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Хобби" audio-track="rus", English Club TV
+https://stream1.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV
 https://lbgo.bozztv.com/07/ushba93/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV HD
 http://fashionlive.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби" audio-track="rus", Joy Cook HD
+https://stitch.teletarget.ru/peerstv/joycook/index.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODU1OTc1NjAsImlhdCI6MTc4NTUxMTE2MCwiY2lkIjo2LCJ1aWQiOjEwNzI5NjE3ODMsInJlZyI6ZmFsc2UsImlwIjo2MzQxMjMwMTQsImFkdWx0IjpmYWxzZX0.211efclKzqg4kUp9tgCIRpNjpgYCiqSRb7xrYMriIPo
+#EXTINF:-1 group-title="Хобби" audio-track="rus", MyZen TV HD
+https://stream1.cinerama.uz/1452/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", World Fashion Channel
 http://cdn.wfc.tv/cdn/stream-rus-720p.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", World Fashion Channel HD
@@ -777,6 +809,8 @@ https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
 https://stream1.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="bobior" audio-track="rus", Бобер
 http://fs.uplink.kz/bober/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Хобби" tvg-id="dialogi-o-rybalke" audio-track="rus", Диалоги о рыбалке HD
+http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Дикая охота HD
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1 group-title="Хобби" tvg-id="drive" audio-track="rus", Драйв
@@ -845,6 +879,8 @@ http://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_TBN/TBN.stream/playlist.m3u8
 #EXTINF:-1 group-title="Религия" audio-track="rus", Три ангела
 https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 1 HD
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 2
 http://178.253.194.79:10007
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 2 HD
@@ -855,6 +891,8 @@ http://178.253.194.79:10008
 http://178.253.194.79:10009
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 6
 http://178.253.194.79:10011
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 7
+http://178.253.194.79:10012
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 8
 http://178.253.194.79:10013
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Astrakhan.RU Sport
@@ -867,6 +905,8 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Fast&FunBox HD
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", FightBox
+https://stream2.somon.tv/Fightbox/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Fuel TV HD
 https://stream1.cinerama.uz/1061/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", KHL
@@ -879,6 +919,10 @@ http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 http://213.91.179.28:8000/play/a048
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Okko Спорт. Прайм HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", QazSport HD
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Russian Extreme
+http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports+
 http://37.46.49.14:18010/play/a056/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports Golf
@@ -911,6 +955,8 @@ http://stream.mcquack.net/112/index.m3u8
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Игра HD
 http://185.37.150.38/test/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD
@@ -953,6 +999,8 @@ http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD Rock HD
@@ -1025,3 +1073,5 @@ http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Релакс" audio-track="rus", Fireplace
 https://jmp2.uk/stvp-KRBD44000025L
+#EXTINF:-1 group-title="Релакс" tvg-id="zhivaya-priroda" audio-track="rus", Живая природа HD
+https://stream1.cinerama.uz/1411/tracks-v1a1/mono.m3u8

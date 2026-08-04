@@ -3,6 +3,8 @@
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 1 HD
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 2
 http://178.253.194.79:10007
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 2 HD
@@ -13,6 +15,8 @@ http://178.253.194.79:10008
 http://178.253.194.79:10009
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 6
 http://178.253.194.79:10011
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 7
+http://178.253.194.79:10012
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Arena Sport 8
 http://178.253.194.79:10013
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Astrakhan.RU Sport
@@ -25,6 +29,8 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Fast&FunBox HD
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", FightBox
+https://stream2.somon.tv/Fightbox/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Fuel TV HD
 https://stream1.cinerama.uz/1061/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", KHL
@@ -37,6 +43,10 @@ http://45.145.32.13:20440/khl_prime/index.m3u8?token=test
 http://213.91.179.28:8000/play/a048
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Okko Спорт. Прайм HD
 http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", QazSport HD
+http://stream.mcquack.net/72/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Russian Extreme
+http://85.208.223.249:8888/play/a004
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports+
 http://37.46.49.14:18010/play/a056/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Sky Sports Golf
@@ -69,6 +79,8 @@ http://stream.mcquack.net/112/index.m3u8
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Игра HD
 http://185.37.150.38/test/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD

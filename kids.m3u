@@ -7,6 +7,8 @@ https://t.me/loganettv_original
 http://185.46.16.239:8000/Ani
 #EXTINF:-1 group-title="Детям" audio-track="rus", Baby Time
 http://109.248.236.51/baby_time/video.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", CHD TV HD
+http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Classics
 http://5.188.159.128:8070/Cartoon_Network/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Network
@@ -55,6 +57,8 @@ http://31.210.208.171:8080/mult_HD/index.m3u8?token=+W2MSER
 https://stream1.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Мультимузыка
 http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="Детям" audio-track="rus", О!
+http://fs.uplink.kz/o/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детям" audio-track="rus", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Рыжий

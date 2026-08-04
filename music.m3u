@@ -15,6 +15,8 @@ http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8
 http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD Rock HD
