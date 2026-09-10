@@ -33,9 +33,7 @@ http://cdn.adultiptv.net/livecams.m3u8
 http://cdn.adultiptv.net/milf.m3u8
 #EXTINF:-1 group-title="Эротика", Adult IPTV POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Babes TV HD
-http://stream.mcquack.net/55/index.m3u8
-#EXTINF:-1 group-title="Эротика" audio-track="rus", Exxxotica HD
-http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", XY Max
+http://79.124.21.250:8199/play/DiemaSport/index.m3u8
 #EXTINF:-1 group-title="Эротика" audio-track="rus", XY Max
 http://79.124.21.250:8199/play/DiemaSport/index.m3u8
