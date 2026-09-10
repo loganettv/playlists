@@ -3,8 +3,6 @@
 https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
-#EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music
-http://176.118.197.101/1HD/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="1hd" audio-track="rus", 1HD Music HD
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge
@@ -85,3 +83,11 @@ http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Live
+http://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Русский хит
+http://195.64.140.147:10194/194
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Classic Music HD
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Lounge
+https://jmp2.uk/stvp-CHAJ0500413A

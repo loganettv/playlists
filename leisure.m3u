@@ -153,6 +153,24 @@ http://45.145.32.13:20440/hdl/index.m3u8?token=test
 https://stream1.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="art-tv" audio-track="rus", Арт
+http://185.23.80.23:8080/ART/index.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="v-mire-zhivotnyx-hd" audio-track="rus", В мире животных HD
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Animal Planet
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Animal Planet HD
+http://89.33.29.115:8080/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Terra
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Terra HD
+http://s1.merlive.am/TerraHD/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Top Secret
+http://s1.merlive.am/Sovershennosekretno/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", viju+ Planet HD
+http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" audio-track="rus", 2x2
 http://31.210.208.171:8080/2x2/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" audio-track="rus", 2x2 HD
@@ -304,6 +322,24 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="yu-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Приключения HD
+http://stream1.cinerama.uz/1420/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", СТС Int.
+http://178.134.1.158:8081/CTC/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Телепутешествия
+http://89.33.29.115:8080/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Точка ТВ
+http://195.64.140.147:10024/24
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Gagsnetwork HD
+http://stream.mcquack.net/458/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Investigation Discovery
+http://stream.mcquack.net/205/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Investigation Discovery HD
+http://195.64.140.147:10152/152
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", TLC
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", TLC HD
+http://89.33.29.115:8080/TLC_HD/index.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", English Club TV
 https://stream1.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV
@@ -370,3 +406,9 @@ http://31.210.208.171:8080/telecafe/index.m3u8?token=+W2MSER
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Усадьба
 https://stream1.cinerama.uz/1427/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="dikiy" audio-track="rus", Дикий
+https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби" audio-track="rus", Food Time HD
+http://89.33.29.115:8080/Eda/index.m3u8
+#EXTINF:-1 group-title="Хобби" audio-track="rus", MyZen TV HD
+https://stream1.cinerama.uz/1452/tracks-v1a1/mono.m3u8

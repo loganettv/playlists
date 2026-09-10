@@ -229,3 +229,33 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
 http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="komedijnoe" audio-track="rus", Комедийное HD
+http://stream.mcquack.net/74/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наше крутое HD
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Премиальное HD
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Хит HD
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Шокирующее HD
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FilmUADrama HD
+http://stream.mcquack.net/273/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", FX HD
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", KinoLiving HD
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Plan_B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Plan_B HD
+http://s1.merlive.am/planbhd/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Star Cinema
+http://s1.merlive.am/starsinema/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Star Family
+http://s1.merlive.am/StarFamily/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Start Air
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Кино" audio-track="rus", Start Air HD
+http://195.64.140.147:10063/63
+#EXTINF:-1 group-title="Кино" audio-track="rus", Viasat Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8

@@ -99,3 +99,17 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 http://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Футбол
 http://radio.tvs.by:8088/Setanta1/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 2
+http://195.64.140.147:10115/115
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Eurosport 2 HD
+http://s1.merlive.am/eurosport2/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Setanta Sports 2 HD
+https://stream1.cinerama.uz/1264/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Udar
+http://stream.mcquack.net/279/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Udar HD
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport
+https://fs.uplink.kz/viju_sport/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Спорт" audio-track="rus", viju+ Sport HD
+http://stream.mcquack.net/333/index.m3u8

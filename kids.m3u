@@ -89,3 +89,7 @@ https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Уникум
 http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", JimJam
+http://89.33.29.115:8080/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", NickToons
+https://stream1.cinerama.uz/1502/playlist.m3u8
