@@ -15,10 +15,16 @@ http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
 http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Русский хит
+http://195.64.140.147:10194/194
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD Rock HD
 http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Classic Music HD
+http://stream.mcquack.net/312/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV
+https://a-cdn.klowdtv.com/live3/clubbingtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Clubbing TV HD
 http://46.151.151.250:9201
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Music
@@ -27,18 +33,22 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Europa Plus TV
 http://fs.uplink.kz/europa_plus/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Europa Plus TV HD
+http://89.33.29.115:8080/Evropa_Plyus_TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", MCM Top
-http://45.145.32.13:20440/mcm_top/index.m3u8?token=test
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", MCM Top HD
+http://89.33.29.115:8080/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Maidan
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo
-http://s1.merlive.am/Mezzo/index.m3u8
+http://89.33.29.115:8080/Mezzo_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo HD
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live HD
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV
-https://stream1.cinerama.uz/1202/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD
 http://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Radio M2O
@@ -58,15 +68,17 @@ http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Матур ТВ HD
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Муз-ТВ
-https://stream1.cinerama.uz/1200/tracks-v1a1/mono.m3u8
+http://stream.mcquack.net/86/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Live
+http://89.33.29.115:8080/Lya-minor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Первого
-https://stream1.cinerama.uz/1201/tracks-v1a1/mono.m3u8
+http://195.64.140.147:10196/196
 #EXTINF:-1 group-title="Музыка" audio-track="rus", О!2
 http://77.232.131.211/O2TV/index.m3u8
 #EXTINF:-1 group-title="Музыка", Сити Эдем — Meditation Music
@@ -83,11 +95,3 @@ http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v3a1/mono.ts.m3u8
 http://uiptv.do.am/1ufc/603282189/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Шансон-ТВ
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Музыка Live
-http://stream1.cinerama.uz/1238/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Русский хит
-http://195.64.140.147:10194/194
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Classic Music HD
-http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 group-title="Музыка" audio-track="rus", Deluxe Lounge
-https://jmp2.uk/stvp-CHAJ0500413A
