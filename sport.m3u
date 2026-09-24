@@ -75,6 +75,8 @@ http://stream.mcquack.net/112/index.m3u8
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Игра HD
 http://stream.mcquack.net/188/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Планета
+https://fs.uplink.kz/match_planeta/mono.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер
 https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
 #EXTINF:-1 group-title="Спорт" audio-track="rus", Матч! Премьер HD

@@ -15,8 +15,12 @@ http://5.188.159.128:8070/Bridge_TV_Deluxe/index.m3u8
 http://stream.mcquack.net/92/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Hits
 http://stream.mcquack.net/320/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Rock
+http://185.195.184.30:8000/play/a0f3/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Русский хит
 http://195.64.140.147:10194/194
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Bridge Фрэш HD
+http://89.33.29.115:8080/Bridge_TV_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD RU Rock HD
 http://194.26.229.213/chdtv_ru_rock/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", CHD Rock HD
@@ -47,6 +51,8 @@ http://89.33.29.115:8080/Mezzo_HD/tracks-v1a1/mono.m3u8
 http://live-3.otcnet.ru/Mezzo/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", Mezzo Live HD
 http://stream.mcquack.net/276/index.m3u8
+#EXTINF:-1 group-title="Музыка" audio-track="rus", MusicBox Gold
+http://89.33.29.115:8080/360TuneBox/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV
 http://stream.mcquack.net/109/index.m3u8
 #EXTINF:-1 group-title="Музыка" audio-track="rus", RU.TV HD

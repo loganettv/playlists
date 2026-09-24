@@ -19,12 +19,16 @@ http://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 http://stream.mcquack.net/305/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", JimJam
 http://89.33.29.115:8080/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", Kids TV
+http://185.195.184.30:8000/play/a0f6/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Nick Jr.
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Nickelodeon
 http://89.33.29.115:8080/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", TiJi
 http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", ducktv
+http://185.195.184.30:8000/play/a0ge/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детям" tvg-id="detsky-mir" audio-track="rus", Детский мир HD
