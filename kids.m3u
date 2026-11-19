@@ -10,35 +10,23 @@ http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", CHD TV HD
 http://194.26.229.213/souzmultfilm/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Classics
-http://5.188.159.128:8070/Cartoon_Network/index.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Network
-http://176.118.197.101/Cartoon_Network/index.m3u8
+http://88.218.242.237:8001/Cartoon_Classics
+#EXTINF:-1 group-title="Детям" audio-track="rus", Cartoon Network HD
+http://s7.merlive.am/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Da Vinci
 http://fs.uplink.kz/da_vinci/tracks-v1a1/mono.ts.m3u8?token=onlinetv
 #EXTINF:-1 group-title="Детям" audio-track="rus", Gulli Girl
-http://stream.mcquack.net/305/index.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", JimJam
-http://89.33.29.115:8080/JimJam/index.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", Kids TV
-http://185.195.184.30:8000/play/a0f6/index.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", Nick Jr.
-http://stream.mcquack.net/220/index.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", Nickelodeon
-http://89.33.29.115:8080/Nickelodeon/tracks-v1a1/mono.m3u8
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", Nickelodeon HD
+http://s7.merlive.am/Nickelodeon/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", TiJi
 http://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", ducktv
-http://185.195.184.30:8000/play/a0ge/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="v-gostiax-u-skazki" audio-track="rus", В гостях у сказки
 http://31.210.208.171:8080/v_gostyah_u_skazki/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Детям" tvg-id="detsky-mir" audio-track="rus", Детский мир HD
-http://46.32.176.50/detskiymir/index.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="ginger-hd" audio-track="rus", Капитан Фантастика
-http://89.33.29.115:8080/Ginger_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Детям" tvg-id="ginger-hd" audio-track="rus", Капитан Фантастика HD
-http://stream.mcquack.net/144/index.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="detsky-mir" audio-track="rus", Детский мир
+http://s7.merlive.am/DetskiMir/index.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="karusel" audio-track="rus", Карусель
-http://194.152.35.17/Karusel/index.m3u8
+http://88.212.15.50/live/test_karusel/playlist.m3u8
 #EXTINF:-1 group-title="Детям" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
@@ -46,23 +34,19 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Мама
-http://flussonic.linkintel.ru/mama/index.m3u8
+http://s7.merlive.am/mama/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Мульт
-http://194.152.35.17/Mult/index.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", Мульт HD
-http://46.32.176.50/MultHD/index.m3u8
+http://85.117.61.97:8000/play/a01r/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Мультиландия
 http://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Мультимузыка
 http://31.210.208.171:8080/mult_i_muzika/index.m3u8?token=+W2MSER
 #EXTINF:-1 group-title="Детям" audio-track="rus", О!
-https://fs.uplink.kz/o/mono.m3u8?token=onlinetv
+http://195.64.140.147:10124/124
 #EXTINF:-1 group-title="Детям" audio-track="rus", Радость моя
 https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", СТС Kids
-http://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
-#EXTINF:-1 group-title="Детям" audio-track="rus", СТС Kids HD
-http://stream.mcquack.net/197/index.m3u8
+http://s7.merlive.am/STSkids/index.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Смайл ТВ
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Солнце
@@ -80,4 +64,4 @@ https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Тооку HD
 http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
 #EXTINF:-1 group-title="Детям" audio-track="rus", Уникум
-http://46.32.176.50/detskiy/index.m3u8
+http://195.64.140.147:10131/131
