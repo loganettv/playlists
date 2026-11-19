@@ -193,3 +193,17 @@ https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
 http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
 #EXTINF:-1 group-title="Кино" audio-track="rus", ТВ21
 http://178.134.1.158:8081/TVXXI/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="zee-tv" audio-track="rus", Индия
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наш кинопоказ HD
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", DetectiveJam HD
+http://88.218.242.237:8001/DetectiveJam_HD
+#EXTINF:-1 group-title="Кино" audio-track="rus", Romance
+http://91.205.196.7:8000/play/a03j
+#EXTINF:-1 group-title="Кино" audio-track="rus", Scream HD
+http://88.218.242.237:8001/Scream_HD
+#EXTINF:-1 group-title="Кино" audio-track="rus", Star Cinema
+http://s7.merlive.am/starsinema/index.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 новелла
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8

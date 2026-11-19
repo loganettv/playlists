@@ -985,3 +985,61 @@ http://193.239.187.102/BRAZZERS/index.m3u8
 http://91.205.196.7:8000/play/a032
 #EXTINF:-1 group-title="Эротика" audio-track="rus", Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="365-dnej" audio-track="rus", 365 дней
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Знания" tvg-id="mir-uvlecheniy" audio-track="rus", #КтоКуда
+http://s7.merlive.am/ktokuda/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="voleybol" audio-track="rus", Волейбол
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="glazami-turista" audio-track="rus", Глазами туриста HD
+http://s7.merlive.am/glazamituristahd/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="dikiy" audio-track="rus", Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="Хобби" tvg-id="eda" audio-track="rus", Еда
+http://88.218.242.237:8001/eda
+#EXTINF:-1 group-title="Кино" tvg-id="zee-tv" audio-track="rus", Индия
+https://fs.uplink.kz/india/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Спорт" tvg-id="konny-mir" audio-track="rus", Конный мир
+https://s7.merlive.am/konnimir/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", ЛДПР ТВ HD
+https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 group-title="Детям" audio-track="rus", Мультимания
+https://venera.movify.tv/Multimania_16_9/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Кино" audio-track="rus", Наш кинопоказ HD
+http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Океан HD
+http://85.192.24.253:8080/AA2126W/video.m3u8
+#EXTINF:-1 group-title="Общие" audio-track="rus", ОНТ HD
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Светлое ТВ HD
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Триумф HD
+http://88.218.242.237:8001/Start_Triumf_HD
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Футбол
+http://195.64.140.147:10107/107
+#EXTINF:-1 group-title="Кино" audio-track="rus", DetectiveJam HD
+http://88.218.242.237:8001/DetectiveJam_HD
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Gagsnetwork
+http://s7.merlive.am/gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Релакс" audio-track="rus", Home HD
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Hustler TV
+http://193.33.39.108:9009/play/a02a
+#EXTINF:-1 group-title="Музыка" audio-track="rus", Live Music Channel HD
+http://46.53.200.153:7777/play/Live_music_channel/index.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Private
+http://193.33.39.108:9009/play/a020
+#EXTINF:-1 group-title="Кино" audio-track="rus", Romance
+http://91.205.196.7:8000/play/a03j
+#EXTINF:-1 group-title="Кино" audio-track="rus", Scream HD
+http://88.218.242.237:8001/Scream_HD
+#EXTINF:-1 group-title="Кино" audio-track="rus", Star Cinema
+http://s7.merlive.am/starsinema/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Travel Channel HD
+http://195.64.140.147:10158/158
+#EXTINF:-1 group-title="Кино" audio-track="rus", viju TV1000 новелла
+http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8
+#EXTINF:-1 group-title="Эротика" audio-track="rus", Playboy TV
+http://91.205.196.7:8000/play/a031
+#EXTINF:-1 group-title="Эротика" audio-track="rus", PassionXXX
+http://151.237.83.99:5500/PassionXXX

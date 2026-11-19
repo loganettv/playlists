@@ -87,3 +87,11 @@ http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
 #EXTINF:-1 group-title="Спорт" audio-track="rus", ТВ Спорт
 http://live-3.otcnet.ru/sportivny/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="voleybol" audio-track="rus", Волейбол
+https://fonbet.mediacdn.ru/live/volleyball/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="konny-mir" audio-track="rus", Конный мир
+https://s7.merlive.am/konnimir/index.m3u8
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Старт Триумф HD
+http://88.218.242.237:8001/Start_Triumf_HD
+#EXTINF:-1 group-title="Спорт" audio-track="rus", Футбол
+http://195.64.140.147:10107/107

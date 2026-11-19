@@ -133,6 +133,14 @@ https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv
 http://s7.merlive.am/HDLife/index.m3u8
 #EXTINF:-1 group-title="Знания" audio-track="rus", Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="365-dnej" audio-track="rus", 365 дней
+https://fs.uplink.kz/365_dney/mono.m3u8?token=onlinetv2
+#EXTINF:-1 group-title="Знания" tvg-id="mir-uvlecheniy" audio-track="rus", #КтоКуда
+http://s7.merlive.am/ktokuda/index.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", ЛДПР ТВ HD
+https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 group-title="Знания" audio-track="rus", Океан HD
+http://85.192.24.253:8080/AA2126W/video.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" audio-track="rus", 2x2
 http://176.118.197.101/2x2/index.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="2na2" audio-track="rus", 2x2 HD
@@ -270,6 +278,14 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
 #EXTINF:-1 group-title="Развлечение" tvg-id="yu-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю ТВ +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="glazami-turista" audio-track="rus", Глазами туриста HD
+http://s7.merlive.am/glazamituristahd/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Светлое ТВ HD
+http://46.53.200.153:7777/play/svetloetv/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Gagsnetwork
+http://s7.merlive.am/gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Развлечение" audio-track="rus", Travel Channel HD
+http://195.64.140.147:10158/158
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Fashion TV HD
@@ -328,3 +344,7 @@ http://31.210.208.171:8080/telecafe/index.m3u8?token=+W2MSER
 http://194.143.148.28:8080/Mir24/mpegts
 #EXTINF:-1 group-title="Хобби" audio-track="rus", Усадьба
 http://195.64.140.147:10028/28
+#EXTINF:-1 group-title="Хобби" tvg-id="dikiy" audio-track="rus", Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="Хобби" tvg-id="eda" audio-track="rus", Еда
+http://88.218.242.237:8001/eda
